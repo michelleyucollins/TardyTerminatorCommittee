@@ -18,7 +18,12 @@ GEMINI_API_KEY = "<YOUR GEMINI API KEY>"
 
 Then, please run stop_name_processing.py with the following command in your terminal. You should be in the home directory. 
 ```
-python -m preliminary.stop_name_processing.py --file_name <file name of desired csv>
+python -m preliminary.stop_name_processing  --file_path <json file> 
+                                            --stop_key <key of stop names> 
+                                            --stop_path <txt csv file with stops>
+                                            --stop_name <name of column with stop names>
+                                            --stop_code <name of column with stop codes>
+                                            --output_name <name of output csv>
 ```
 
 
