@@ -13,9 +13,13 @@ This file utilizes Gemini 2.0 Flash, a free LLM API to perform textual processin
 
 ./personalconstants.py is ignored by git and should look like this and should be in your home repository.
 ```
-GEMINI_API_KEY = <YOUR GEMINI API KEY>
+GEMINI_API_KEY = "<YOUR GEMINI API KEY>"
 ```
 
+Then, please run stop_name_processing.py with the following command in your terminal. You should be in the home directory. 
+```
+python -m preliminary.stop_name_processing.py --file_name <file name of desired csv>
+```
 
 
 

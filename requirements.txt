@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+-U googlemaps
+-q -U google-genai
