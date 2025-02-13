@@ -399,8 +399,11 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-#TTC Routes and Stops Folder
+# TTC Routes and Stops Folder due to size
 data/TTC Routes and Schedules Data
 
-#DS store
+# DS store
 .DS_Store
+
+# Personal Constants
+personalconstants.py
