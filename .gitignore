@@ -401,3 +401,6 @@ FodyWeavers.xsd
 
 #TTC Routes and Stops Folder
 data/TTC Routes and Schedules Data
+
+#DS store
+.DS_Store
