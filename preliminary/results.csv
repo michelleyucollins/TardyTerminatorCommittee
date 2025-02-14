@@ -1,555 +1,106 @@
-```csv
-misspelled_name,correct_name
-longbranch loop,Long Branch Loop
-kipling stn,Kipling Ave at Belfield Rd - Etobicoke North GO Station
-royal york at romney rd,Royal York Rd at Royaleigh Ave South Side
-ossington stn,Ossington Ave at Bloor St West
-keele station,Keele St at St Clair Ave West
-main stn,Main St at Danforth Ave
-steeles loop,Steeles Ave West at Islington Ave Loop
-markham and eglinton,Markham Rd at Eglinton Ave East
-lakeshore and marine parade,Lake Shore Blvd West at Park Lawn Rd
-pape stn,Pape Ave at Lipton Ave North Side
-stc,NONE
-donmills and lawrence,Don Mills Rd at Lawrence Ave East
-danforth and danforth,Danforth Ave at Main St
-yonge and yorkmills,Yonge St at York Mills Rd
-founders,Steeles Ave West at Founders Rd - York University
-sheppard station,Sheppard Ave East at Bayview Ave East Side - Bayview Station
-syon,NONE
-warden and danforth,Warden Ave at Danforth Rd South Side
-entire route,NONE
-morningside and staines,Staines Rd at Seasons Dr South Side
-willington,Wellington St West at Bay St
-castleknock & eglinton,Eglinton Ave West at Avenue Rd East Side
-woodbine and danforth,Danforth Ave at Woodbine Ave
-weston/black creek,Eglinton Ave West at Black Creek Dr
-lawrence & yonge,Lawrence Ave East at Yonge St - Lawrence Station
-wilson stn,Wilson Ave at Billy Bishop Way
-bloor and east mall,Dundas St West at East Mall Cres West Side
-woodbine race track,Woodbine Race Track Loop (Main Entrance)
-rose hill and yonge st,Yonge St at Moore Park Ave
-rivalda and sheppard,Sheppard Ave West at Rivalda Rd
-york commons,NONE
-main stn.,Main St at Danforth Ave
-york mills station,Yonge St at York Mills Rd North Side - York Mills Station
-castle frank stn.,NONE
-york u / commons,NONE
-rustic & keele,Rogers Rd at Keele St
-don mills station,Don Mills Rd at Eglinton Ave East North Side
-peter kaiser and steeles,Steeles Ave West at Peter Kaiser Gate
-victoria park stn,Victoria Park Ave at Craigton Dr
-valley woods rd. & york mills rd.,York Mills Rd at Upper Highland Cres
-pape station,Pape Ave at Lipton Ave North Side
-eglinton stn,Eglinton Ave East at Bayview Ave East Side
-humberwood loop,Humberwood Blvd at Humberline Dr
-keele & rogers,Rogers Rd at Keele St
-warden ave and eglinton ave e,Warden Ave at Eglinton Ave East North Side
-york mills/leslie,York Mills Rd at Leslie St West Side
-victoria park station,Victoria Park Ave at Craigton Dr
-fstn,NONE
-bayview and york mills,York Mills Rd at Bayview Ave West Side
-freshmeadow dr and donmills rd,Freshmeadow Dr at Don Mills Rd
-downsview stn,Sheppard Ave West at Jane St East Side
-bathurst/st. clair,Bathurst St at St Clair Ave West
-weston and albion,Albion Rd at Islington Ave
-avon loop,Humberwood Blvd at Honeyview Pl
-keele and sheppard,Sheppard Ave West at Jane St East Side
-hwy 27 and humber college blvd,Humber College Blvd at Humberline Dr
-east/lawerence,Lawrence Ave East at East Ave - Rouge Hill GO Station
-kennedy stn.,Kennedy Rd at Eglinton Ave East
-downsview station,Keele St at Finch Ave West North Side - Finch West Station
-lawrence w stn,Lawrence Ave West at Culford Rd
-keele stn,Keele St at Broadoaks Dr
-wellesley stn,Wellesley St East at Ontario St
-davisville stn,Davisville Ave at Cleveland St
-nightstar & morningside,Nightstar Rd at Morningside Ave North Side
-nighstar & morningside,Nightstar Rd at Morningside Ave North Side
-ellesmere & miltary,Ellesmere Rd at Military Trail
-ellesmee @ military trail,Ellesmere Rd at Military Trail
-ellesmere and military trail,Ellesmere Rd at Military Trail
-warden stn.,Warden Ave at Danforth Rd South Side
-york mills @ upjohn,York Mills Rd at Upjohn Rd
-eglinton station,Eglinton Ave East at Bayview Ave East Side
-dufferin st at glencarin ave,Dufferin St at Glencairn Ave
-weston rd / eglinton west ave,Weston Rd at Eglinton Ave West South Side
-eastmall at rathburn,The East Mall at Rathburn Rd at Walkway to Alanmeade Cres
-lawrence west stn,Lawrence Ave West at Culford Rd
-malvern gates,NONE
-375 danforth rd,347 Danforth Rd
-kennedy stn,Kennedy Rd at Eglinton Ave East
-bayview and finch ave east,Bayview Ave at Finch Ave East
-scarb town ctr stn,East York Town Centre
-sheppard @ brenyon way,Sheppard Ave East at Brenyon Way East Side
-kennedy - ellesmere,Kennedy Rd at Ellesmere Rd
-markham and dynamic,Markham Rd at Progress Ave
-bathurst & finch,Bathurst St at Finch Ave West
-weston & habitant,Weston Rd at Habitant Dr
-pharmacy - brian,Pharmacy Ave at Brian Ave
-finch station,Finch Ave West at Yonge St - Finch Station
-yorkmills stn,Yonge St at York Mills Rd North Side - York Mills Station
-donmills and finch ave east,Finch Ave East at Don Mills Rd West Side
-wilson station,Wilson Ave at Billy Bishop Way
-jane  and church,Jane St at Church St
-finch and arrow,Finch Ave West at Arrow Rd
-warden station,Warden Ave at Danforth Rd South Side
-main station,Main St at Danforth Ave
-woodbine station,Woodbine Ave at Gerrard St East
-christie station,Christie St at Dupont St
-malvern garage,NONE
-signet and steeles,Steeles Ave West at Bathurst St East Side
-carlaw and commissioner,Carlaw Ave at Commissioners St North Side
-jane and steeles,Jane St at Steeles Ave West
-east liberty,Eastern Ave at Queen St East South Side
-sherway grdns,The West Mall at Sherway Dr - Trillium Health Centre (South Stop)
-bathurst/neptune,Bathurst St at Neptune Dr
-ossington station,Ossington Ave at Bloor St West
-berry and parklawn,Berry Rd at Park Lawn Rd
-royal york stn,Royal York Rd at Eglinton Ave West South Side
-runnymede loop,Runnymede Rd at Glenwood Ave
-midland and steeles,Midland Ave at Steeles Ave East South Side
-mofi,NONE
-albion and claireport,Albion Rd at Humberline Dr
-avenue rd & dupont.,Avenue Rd at Dupont St
-91a woodbine - parkview hills,Victoria Park Ave at Highview Ave South Side
-esplanade / jarvis,The Esplanade at Lower Jarvis St East Side
-don mills/wynford drive,Don Mills Rd at Wynford Dr
-eglinton - bellamy s,Eglinton Ave East at Brimley Rd West Side
-bathurst stn,Bathurst St at Elm Ridge Dr
-morningside @ finch,Morningside Ave at Casebridge Crt North Side
-don mills stn,Don Mills Rd at Eglinton Ave East North Side
-terminal 3,Pearson Airport Terminal 3 - Arrivals Level Columns C8-C12
-don mills/sheppard,Don Mills Rd at Sheppard Ave East
-pharmacy and hollydene,NONE
-lawrence station exit,Lawrence Sq at Northwest Entrance
-finch ave east & middlefield ave,Finch Ave East at Middlefield Rd
-york u commons,Lawrence Plaza at Canada Trust
-lawrence and warden,Warden Ave at Lawrence Ave East South Side
-eglinton garage,Renforth Dr at Eglinton Ave West
-eglinton west stn,Eglinton Ave West at Avenue Rd East Side
-upper canada dr and fairmeadow,Upper Canada Dr at Fairmeadow Ave
-sheppard stn,Sheppard Ave East at Commons Dr
-necr,NONE
-morningside and sewells,Morningside Ave at Sewells Rd
-bloor and riverside,NONE
-runnymede station,Runnymede Rd at Dundas St West
-steeles and yonge loop,Finch Ave East at Yonge St East Side
-meadowvale loop,Meadowvale Rd at Sheppard Ave East
-yonge and finch,Finch Ave East at Yonge St East Side
-carrier and humbercollege blvd.,Humber College Blvd at Carrier Dr
-kennedy station,Kennedy Rd at Eglinton Ave East
-staines & steeles,Steeles Ave East at Birchmount Rd West Side
-carrier loop,Rouge Hill GO Station Loop
-brough Rd at O'connor dr,Broadview Ave at Erindale Ave
-""",""""
-dynamic/mcnicol,McNicoll Ave at Hutchcroft Ave East Side
-steeles and scholes rd/barmac dr,Steeles Ave West at Scholes Rd/Barmac Dr
-1
-south leaside route,NONE
-8886,Wilson Ave at Wendell Ave
-2813,Lawrence Ave East at Blaine Dr
-3049,Queen St East at Greenwood Ave
-3664,Glencairn Ave at Bathurst St
-3677,Greenwood Ave at Gerrard St East
-4353,Kipling Ave at Jutland Rd
-4390,Kipling Ave at Widdicombe Hill Blvd
-4973,950 Dixon Rd
-5264,Lawrence Ave East at Fortune Gate East Side
-5496,Lloyd Manor Rd at Firwood Cres North Side
-5891,Oakdale Rd at Sheppard Ave West North Side
-7246,Sheppard Ave East at Shaughnessy Blvd
-7567,Brookbanks Dr at Valley Woods Rd
-8577,Warden Ave at Ionson Blvd
-8657,Westhumber Blvd at Martin Grove Rd East Side
-9077,York Mills Rd at Leslie St West Side
-9084,Sentinel Rd at Fountainhead Rd North Side
-9808,McCowan Rd Loop at Steeles Ave East
-10676,8150 Sheppard Ave East
-10755,Keele St at Toro Rd
-12135,Eglinton Ave West at Royal York Rd East Side
-1301,McCowan Rd at Kenhatch Blvd
-13307,St Clair Ave West at Mariposa Ave
-13311,Scarlett Rd at Bernice Cres
-13325,Morningview Trail at Old Finch Ave South Side
-13704,Lawrence Ave East at Fern Meadow Rd
-2753,Kennedy Rd at Eglinton Ave South Side
-4111,Kennedy Rd at Cardwell Ave
-4186,King St West at Spencer Ave
-4190,King St West at Tecumseth St
-4308,Kipling Ave at Evans Ave
-4346,Kipling Ave at North Heights Rd
-5101,Gary Dr at Langside Ave
-5771,Mortimer Ave at Coxwell Ave - Michael Garron Hospital
-5932,O'Connor Dr at Ralston Ave West Side
-5974,Ossington Ave at Hepbourne St
-6021,Rogers Rd at Dufferin St
-6541,Marlee Ave at Glencairn Ave
-7575,Carlingview Dr at Disco Rd South Side
-8122,Spadina Rd at Dupont St - Dupont Station
-8256,Steeles Ave East at Opposite Walkway to Whitman St
-8411,Vaughan Rd at Humewood Dr
-8713,Weston Rd at Craydon Ave
-8865,Wilson Ave at Julian Rd East Side - Humber River Hospital
-9116,Freshmeadow Dr at Don Mills Rd
-9132,Finch Ave West at Yonge St - Finch Station
-9166,Leslie St at Sheppard Ave East
-9293,Drewry Ave at Yonge St
-9341,Dufferin St at Dufferin Park Ave
-9355,Steeles Ave East at Birchmount Rd
-9375,Christie St at Davenport Rd
-9553,Breckon Gate at Sheppard Ave East
-9627,The East Mall at The Queensway
-9649,170 Nugget Ave
-9689,Gerrard St East at Clonmore Dr
-9880,Keele St at Victory Dr
-9912,Finch Ave East at Yonge St East Side
-10148,Brimley Rd at Pitfield Rd
-10412,Jane St at Steeles Ave West
-10446,2901 Jane St
-10546,Warden Ave at Carlton Rd
-10558,Warden Ave at Enterprise Blvd
-10603,Finch Ave East at Walkway to Chester Le Blvd
-10710,Atkinson Ave at Dundurn Cres (South)
-10767,Dovercourt Rd at Hallam St
-11071,McNicoll Ave at Morbank Dr
-11164,Berkeley St at Front St East South Side
-11166,The Esplanade at Princess St
-11251,Midland Ave at Steeles Ave East South Side
-11293,Finch Ave West at Highway 27 West Side
-11413,Steeles Ave East at Birchmount Rd West Side
-11417,Humberwood Blvd at Honeyview Pl
-11522,Steeles Ave West at Highway 27 East Side
-11583,Old Weston Rd at St Clair Ave West
-11587,Sherway Gardens Rd at Sherway Gate (Mall)
-11606,Steeles Ave East at Middlefield Rd
-11614,Steeles Ave East at Walkway to Joycedale St
-11620,St Clair Ave West at Lansdowne Ave
-11631,55 Rankin Cres
-11632,Lansdowne Ave at Dundas St West South Side
-11635,Toronto Rehab - Bickle Centre at 130 Dunn Ave
-11638,Lawrence Plaza at Canada Trust
-11640,Wagman Centre
-11651,East York Town Centre
-11667,Neilson Rd at Finch Ave East South Side
-11669,Sheppard Ave East at Meadowvale Rd
-11683,Queen St East at Neville Park Blvd
-11775,Parkside Dr at High Park Blvd
-11826,Main St at Danforth Ave
-11843,Lambton Ave at Beechwood Ave East Side
-11845,Pape Ave at O'Connor Dr North Side
-11927,Promenade Cir at East Promenade North Side - Mall East Entrance
-11930,New Westminster Dr at Centre St
-11940,Ian MacDonald Blvd at The Chimneystack Rd
-11991,Strachan Ave at Fleet St North Side
-11996,Wellness Way at Hospital Rd - Odette Cancer Centre
-12013,Warden Ave at Sheppard Ave East North Side
-12017,McNicoll Ave at Silver Springs Blvd
-12022,McNicoll Ave at Hutchcroft Ave East Side
-12028,McNicoll Ave at Boxdene Ave
-12034,Moore Park Ave at Fargo Ave
-12100,Corporate Dr at Lee Centre Dr (West)
-12122,Kipling Ave at Lake Shore Blvd West
-12133,Eglinton Ave West at Royal York Rd East Side
-12140,Grand Ave at Dalesford Rd South Side
-12146,John Garland Blvd at Finch Ave West South Side
-12192,Sheppard Ave West at Beecroft Rd West Side
-12196,Humber College Blvd at Humberline Dr South Side
-12197,Kennedy Rd at Purcell Sq South Side
-13305,St Clair Ave West at Runnymede Rd
-13312,Scarlett Rd at Eileen Ave
-13313,Scarlett Rd at Foxwell St
-13316,Opposite 2650 St Clair Ave West
-13341,St Clair Ave West at Old Stock Yards Rd
-13343,St Clair Ave West at Runnymede Rd
-13366,Exhibition Loop at Manitoba Dr
-13422,Exhibition Loop
-13434,Chesswood Dr at Vanley Cres (South)
-13436,Underhill Dr at Roanoke Rd North Side
-13450,Lambton Ave at Cashman Cres (East)
-13455,Yonge St at Front St East
-13458,Highland Creek Overpass at Kingston Rd
-13642,Main St Markham North at Robinson St
-13655,9350 Markham Rd
-13656,Markham Rd at 16Th Ave
-13657,Main St Markham North at Springdale Ave
-13660,Markham Rd at Passmore Ave North Side
-13661,Main St Markham North at Highway 7
-13664,Markham Rd at Highglen Ave
-13667,Sheppard Ave East at Bessarion Rd East Side - Bessarion Station
-13677,Sheppard Ave East at Parkway Forest Dr East Side - Opposite Don Mills Collegiate
-13685,Yorkland Blvd (South) at Consumers Rd
-13686,251 Consumers Rd
-13688,North York General Hospital - Main Entrance
-13696,Kennedy Rd at Bertrand Ave
-13697,Opposite 327 Dixon Rd
-13700,2275 Markham Rd
-13701,2260 Markham Rd
-13705,Sheppard Ave East at Parkway Forest Dr East Side - Commemorative Don Mills Collegiate Sign
-13706,Vanderhoof Ave at Thomas Elgie Dr
-13707,Leslie St at Wicksteed Ave
-13709,Finch Ave West at Jane St
-13711,St Clair Ave West at Mondovi Gate West Side
-13716,McCowan Rd at 16Th Ave
-13789,North York Centre Station - Southbound Platform
-13860,Sheppard-Yonge Station - Southbound Platform
-13902,Sheppard Ave East at Victoria Park Ave East Side
-13904,Neilson Rd at Finch Ave East
-13906,Nightstar Rd at Morningside Ave North Side
-13916,Huntingwood Rd at Ridgecrest Dr
-13917,Toronto South Detention Centre
-13921,Woodbine Race Track Loop (Main Entrance)
-13923,Main St at Gerrard St East
-13924,Keele St at St Regis Cres North Side - Opposite 6355 Airport Rd
-13925,St Regis Cres at Keele St East Side
-13938,Woodbine Racetrack Loop (Main Entrance)
-13950,Fenelon Dr at Graydon Hall Dr
-13960,Lynedock Cres at Fortrose Cres (East)
-14050,St Clair Ave East at Warden Ave West Side
-14053,2752 King St East at Sackville St
-14055,St Clair Ave East at Warden Ave West Side
-14060,Pharmacy Ave at Collingsbrook Blvd
-14061,Westwood Square Bus Terminal at Morning Star Dr
-14079,709 Milner Ave
-14083,Nightstar Rd at Pogonia St
-14086,Signal Hill Ave at Steeles Ave West
-14092,Kennedy Rd at Jade St
-14104,2851 Morningside Ave Walkway to Raponi Cir
-14105,Seasons Dr at Canoe Cres (West)
-14110,Sheppard West Station - Southbound Platform
-14111,The Esplanade at Opposite Walkway to Buckhurst Cres & 190 Consumers
-14116,The Esplanade at 14266,Staines Rd at Seasons Dr South Side
-14120,Kennedy Rd at Park St
-14122,Eglinton Ave West at Royal York Rd East Side
-14123,Sheppard Ave East at Ecopark Gate
-14141,Wilson Ave at Keele St North Side
-14155,Markham Rd at Opposite Walkway to Clandfield St
-14156,7710 Markham Rd
-14157,7675 Markham Rd
-14158,McCowan Rd at James Parrot Ave
-14159,McCowan Rd at Bur Oak Ave - Mount Joy GO Station
-14187,Bombay Loop at Avenue Rd
-14189,Bombay Loop at Avenue Rd
-14190,Bombay Loop at Avenue Rd
-1420,O'Connor Dr at Pape Ave
-1423,Orfus Rd at Dufflaw Rd West Side
-14238,McCowan Rd at Southdale Dr
-14244,Warden Ave at Glenburn Forest Way
-14246,Warden Ave at Cachet Pkwy (South)
-14247,Warden Ave at Major Mackenzie Dr East
-14248,3450 McNicoll Ave
-14250,Warden Ave at Cachet Pkwy (South)
-14251,The Bridle Walk at Major Mackenzie Dr East
-14252,Warden Ave at Calvert Rd
-14253,Humber College at Finch Ave West North Side
-14254,Finch Ave West at Humber College Blvd East Side
-14255,Don Mills Rd at Lawrence Ave East South Side
-14256,The Pond Rd at Keele St West Side - Seneca College Loop
-14257,The Pond Rd at The Seneca Rd
-14258,Don Mills Rd at Eglinton Ave East
-14262,Weston Rd at Cardell Ave
-14263,Birchmount Rd at Ashtonbee Rd
-14264,Bingham Loop at 13656,Markham Rd at Highglen Ave
-14266,Staines Rd at Seasons Dr South Side
-14271,Victoria Park Ave at Rowena Dr
-14272,Victoria Park Ave at Rowena Dr
-14273,1816 Lake Shore Blvd East
-14275,Opposite 2900 Warden Ave - Bridlewood Mall
-14276,2900 Warden Ave - Bridlewood Mall
-14278,Pearson Airport Terminal 3 - Arrivals Level Columns C8-C12
-14279,The Queensway at Windermere Ave
-14280,The Queensway at Windermere Ave
-14281,The Queensway at Windermere Ave East Side
-14282,The Queensway at Windermere Ave East Side
-14284,Sentinel Rd at Cook Rd
-1430,Oriole Pkwy at Gormley Ave
-14309,Nunavut Rd - Horse Palace
-14310,Opposite 44 Kodiak Cres
-14315,Albion Rd at Shendale Dr
-14316,Meadowvale Rd at Lavery Trail
-14317,740 Ellesmere Rd at Mondeo Dr
-14319,Warden Ave at Roper Rd
-14320,The Queensway at Smith Cres
-14321,Spadina Rd at Old Forest Hill Rd
-14324,Warden Ave at 125 Bamburgh Cir Apts
-14325,Industry St at Bertal Rd South Side
-14326,Prince Edward Dr South at Berry Rd
-14327,The East Mall at Yarn Rd South Side
-14328,Albion Rd at Steinway Blvd
-14329,Claireport Cres (East) at Albion Rd South Side
-1433,38 Orfus Rd
-14330,Lake Shore Blvd West at Miles Rd
-14331,Queens Quay West at Lower Spadina Ave East Side
-14332,250 Consumers Rd
-14333,750 Consumers Rd
-14334,Kingston Rd at Resthaven Memorial Gardens
-14335,Queen St East at Emdaabiimok Ave
-14336,Opposite 4325 McCowan Rd - Milliken Park Rec Centre
-14337,Eglinton Ave West at Royal York Rd East Side
-14339,Markham Rd at Bur Oak Ave - Mount Joy GO Station
-14341,3407 Chaplin Cres at Avenue Rd
-14343,Stephen Dr at The Queensway North Side
-14344,7340 Spadina Rd at Bernard Ave
-14345,Eglinton Ave East at Kennedy Rd
-14346,Birchmount Rd at Ashtonbee Rd
-14347,Opposite 675 Wilson Ave
-1435,Oriole Pkwy at Kilbarry Rd
-14350,Lambton Ave at Guestville Ave
-14351,St Clair Ave West at Deer Park Cres East Side
-14355,St Clair Ave East at Cotton Ave
-14357,Eastdale Ave at Secord Ave
-14363,Davean Dr at Woodsworth Rd West Side
-14364,Brimley Rd at Walkway to Goldhawk Trail
-14367,Toronto South Detention Centre
-14368,Opposite 35 Carl Hall Rd
-1437,Oriole Pkwy at Gormley Ave
-14371,Lower Jarvis St at The Esplanade
-14374,6275,111 Cactus Ave
-14375,Dufferin St at Martin Ross Ave
-14376,Steeles Ave East at Marydale Ave
-14377,Avenue Rd at Glencairn Ave
-14379,Steeles Ave East at Eastvale Rd
-14380,Steeles Ave East at Staines Rd
-14382,Staines Rd at Quietbrook Cres (North)
-14384,Finch Ave East at Dudley Ave
-14385,Finch Ave East at Dudley Ave
-14386,Dufferin St at Hope St
-14387,Queen St East at Opposite Walkway to Emdaabiimok Ave
-14388,Queen St East at Kingston Rd
-14389,Finch Ave West at Beecroft Rd
-1439,Oriole Pkwy at Gormley Ave
-14390,Kennedy Rd at Markham Rd East Side
-14393,The Queensway at Grand Ave
-14394,The Queensway at Ellis Ave
-14395,The Queensway at Windermere Ave West Side
-14397,The Queensway at Stephen Dr
-14398,3750 Midland Ave
-14399,Keele St at Ingram Dr
-1440,Oriole Pkwy at Kilbarry Rd
-14400,King St West at Joe Shuster Way
-14401,Finch Ave West at Keele St North Side - Finch West Station
-14403,Bathurst St at Eglinton Ave West
-14404,Raitherm Rd at South Side
-14405,Finch Ave West at Senlac Rd
-14406,Parliament St at Peter Kaiser Gate
-14407,York Mills Rd at Denlow Blvd
-14408,Mill St at Eastern Ave
-14410,Lansdowne Ave at Brandon Ave North Side
-14411,Lake Shore Blvd West at Thirty Ninth St
-14412,Queen St West at Rosemount Ave
-14413,Steeles Ave East at Dudley Ave
-14414,Victoria Park Ave at O'Connor Dr South Side
-14415,Progress Ave at Martin Grove Rd
-14416,Avenue Rd at Old Orchard Grove
-14417,Humberwood Blvd at Honeyview Pl
-14418,Warden Ave at Sheppard Ave East
-14419,Steeprock Dr at Whitehorse Rd
-1442,The Bridle Path at Royal York Rd West Side
-14420,Don Mills Rd at Steeles Ave East
-14421,Kingston Rd at Wood Glen Rd
-14422,Markham Rd at Birchmount Rd
-14423,Victoria Park Ave at Sloan Ave
-14424,Morning Side Avenue at Tams Rd
-14425,Yonge St at Dundas St East
-14426,Toronto Rehabilitation Bickle Centre at 130 Dunn Ave
-14427,York Mills Rd at Banbury Rd (West)
-14428,The Esplanade at Lowrence
-14429,Kipling Ave at Bloor St West
-1443,Park St at Atlee Ave
-14430,Warden Ave at Cachet Pkwy (North)
-14431,Queen's Plate Dr West at East Promenade
-14432,Vaughn Rd at Caledonia Rd
-14433,Humber River Hospital
-14434,St. Clair Ave West at Tweedsmuir Ave West Side
-14435,Queen St West at St. Clair Ave East
-14436,Yonge Ave East at Victoria Park Ave East Side
-14437,Warden Ave at Cachet Pkwy (East)
-14438,Brimley Rd at Walkway to Seagrave Cres
-14439,North York General Hospital at Main Entrance
-1444,Park St at Natalia Ave
-14440,Pharmacy Ave at Walkway to Crayford Dr
-14441,Wilson Ave at The Pond Rd
-14442,Finch Ave East at Blackbird Gate
-14443,5921 Sheppard Ave East
-14444,5921 Finch Ave East
-14445,Finch Ave East at Morningside Ave West Side
-14446,Staines Rd at Seasons Dr South Side
-14447,5799 Yonge St
-14448,Progress Ave at Schick Crt
-14449,Bayview Ave at Merton St
-1445,Park St at Lillington Ave
-14450,Lake Shore Blvd West at Superior Ave
-14451,Warden Ave at 16Th Ave
-14452,Opposite 810 Royal York Rd
-14453,Queen St East at Church St
-14454,Westhumber Blvd at Moon Valley Dr
-14455,4795 Yonge St
-14456,Lansdowne Ave at Wade Ave
-14457,Markham Rd at Select Ave
-14458,45 Ironside Cres
-14459,Sentinel Rd at The Pond Rd
-1446,1910 St Clair Ave East
-14460,Toronto Rehabilitation Bickle Center at 130 Dunn Ave
-14462,Queen St East at Queen st East
-14463,Pharmacy Ave at The Esplanade
-14464,The Queen's Park at Yonge Blvd
-14465,The West Mall at Thistle Downs
-14466,Markham Rd at Eglinton Ave East
-14469,Saskatchewan Rd at Dufferin St East Side
-14470,Symington Ave at DuPont St
-1447,590 Rathburn Rd - Seneca School
-14474,1103 Kingston Rd
-14475,Toronto - Yorkdale Station
-1447,Rathburn Rd - Senica
-14477,1666 Wilson Ave at Transit Rd
-14478,Victoria Park Ave Loop and Stceles
-14479,Avenue Rd at Lytton Blvd
-1448,Park St at Natan Ave
-14480,Faywood Blvd at Laurelcrest Ave
-14481,St. Clair Ave West at Caledonia Rd
-14482,Belfield Rd at Belfield Rd
-14483,Warden Ave at The Pond Rd
-14484,Queen St West at the hoskin Ave
-14486,York Mills Rd at Glen Ridge Rd
-14487,14332 Queen St East
-14488,Old Weston Rd at Junction Ave
-14489,Queen St East at the South Side
-14490,Milvan Dr at Penn Ave
-14491,Bayview Ave at Ruth Ave
-14492,Danforth Ave at Case Bridge Crt - Hospital
-14493,Carluke Cres at Fox View South Side
-14494,1750 Steeles Ave West
-14496,Evans Ave at The Gamma St
-14501,Pape Ave at O'Conner
-14507,2727 Islington Ave
-14508,Old Weston Rd at St Clair Ave West
-14509,Roncesvalles Ave at Fenway Blvd
-14510,Wellness Way at Hospital Rd - The Sunnybrook Center
-14511,Steeles Ave West at The Yonge St
-14512,Eglinton Ave East at Wynford Dr
-14513,Humberwood Blvd at MorningStar Av
-14514,Humberwood Blvd at MorningStar Dr
-14517,Sentinel Rd at Walkway to The Grandravine
-14518,Oakwood Ave at The Oakwood Ave
-14519,Kingston Rd at Toronto City Evolved
-14520,Lesmill Rd at York Mills Rd
-14522,Tapscott Rd at the Yonge St
-14523,Yonge St at Joseph West
-14524,Towns Rd at the East Ave
-14525,Opposite 41 Torbarrie Rd
-14526,York Gate Blvd at Jane St
-14527,Islington Ave at Nordin Dr
-14528,16 Thedonway
-14529,Sloan Ave at the Trophy Drive
-14530,Sheppard Ave West at Jane St
-14531,Night Star Rd at The Pononia St
-14532,Jones at TheQueen, St. East Northside
-14533,Lipton Road at the Newmil Lane
-14534,Queen St W. at Sheer Street
-14535,Peter's Gate at The Toronto East
-
-```
-
-Here is a breakdown of the changes made:
-
-*   **Corrected many misspellings and typos** to match the corresponding `stop_name`.
-*   **Expanded abbreviations** like "EB" (East Bound), "WB
+misspelled_name,correct_name,stop_code
+longbranch loop,Long Branch Loop,4435
+kipling stn,Kipling Ave at Bloor St West North Side,4291
+royal york at romney rd,Royal York Rd at Romney Rd,6991
+ossington stn,Ossington Ave at Bloor St West,9857
+keele station,Keele St at St Clair Ave West,7899
+main stn,Main St at Danforth Ave,1262
+steeles loop,Steeles Ave West at Islington Ave Loop,8285
+markham and eglinton,Markham Rd at Eglinton Ave East,4466
+lakeshore and marine parade,Lake Shore Blvd West at Thirty Seventh St,5164
+pape stn,Pape Ave at O'Connor Dr North Side,4501
+stc,Scarborough Town Centre,11651
+donmills and lawrence,Don Mills Rd at Lawrence Ave East,1946
+danforth and danforth,Danforth Ave at Main St,9955
+yonge and yorkmills,York Mills Rd at Yonge St,9906
+founders,Steeles Ave West at Founders Rd - York University,1596
+sheppard station,Sheppard Ave West at Jane St East Side,6069
+syon,Sunnybrook Hospital,1729
+warden and danforth,Warden Ave at Danforth Rd South Side,9905
+morningside and staines,Morningside Ave at Staines Rd,14104
+willington,Wellington St West at Bay St,4710
+castleknock & eglinton,Eglinton Ave West at Castle Knock Rd,2336
+woodbine and danforth,Danforth Ave at Woodbine Ave,915
+weston/black creek,Weston Rd at Black Creek Dr North Side,8699
+lawrence & yonge,Lawrence Ave West at Weston Rd - Weston GO Station,5415
+wilson stn,Wilson Ave at Keele St,8869
+bloor and east mall,Bloor St West at The East Mall,510
+woodbine race track,Woodbine Race Track Loop (Main Entrance),13921
+rose hill and yonge st,NONE,NONE
+rivalda and sheppard,Sheppard Ave West at Rivalda Rd,6086
+york commons,Sheppard Ave East at Commons Dr,7172
+main stn.,Main St at Danforth Ave,1262
+york mills station,York Mills Rd at Yonge St East Side,9907
+castlekrank stn.,Castle Frank Station,4886
+york u / commons,York University Commons,11689
+rustic & keele,Keele St at Rustic Rd,10755
+don mills station,Don Mills Rd at Eglinton Ave East,2752
+peter kaiser and steeles,Peter Kaiser Gate at Steeles Ave West,1453
+victoria park stn,Victoria Park Ave at Sheppard Ave East North Side,7424
+valley woods rd. & york mills rd.,Valley Woods Rd. at York Mills Rd.,9078
+eglinton stn,Eglinton Ave West at Weston Rd,2419
+humberwood loop,Humberwood Blvd at Honeyview Pl,11417
+keele & rogers,Keele St at Rogers Rd,6031
+warden ave and eglinton ave e,Warden Ave at Eglinton Ave East,2752
+york mills/leslie,York Mills Rd at Leslie St West Side,9077
+fstn,Finch Station,9149
+bayview and york mills,Bayview Ave at York Mills Rd,329
+freshmeadow dr and donmills rd,Freshmeadow Dr at Don Mills Rd,2646
+downsview stn,Downsview Station,6069
+bathurst/st. clair,Bathurst St at St Clair Ave West,204
+weston and albion,Weston Rd at Albion Rd,3809
+avon loop,Avon Loop at Weston Rd,13366
+keele and sheppard,Keele St at Sheppard Ave West,9719
+hwy 27 and humber college blvd,Highway 27 at Humber College Blvd,11506
+east/lawerence,Lawrence Ave East at East Ave - Rouge Hill GO Station,13068
+kennedy stn.,Kennedy Station,3539
+lawrence w stn,Lawrence Ave West at Weston Rd - Weston GO Station,5415
+keele stn,Keele St at St Clair Ave West,7899
+wellesley stn,Wellesley St East at Ontario St,8630
+davisville stn,Davisville Ave at Cleveland St,1871
+nightstar & morningside,Nightstar Rd at Morningside Ave,14104
+ellesmere & miltary,Ellesmere Rd at Military Trail,9622
+warden stn.,Warden Ave at Steeles Ave East North Side,10536
+york mills @ upjohn,York Mills Rd at Upjohn Rd,9083
+bayview and finch ave east,Bayview Ave at Finch Ave East,9912
+scarb town ctr stn,Scarborough Town Centre,11651
+sheppard @ brenyon way,Sheppard Ave East at Brenyon Way,10873
+kennedy - ellesmere,Kennedy Rd at Ellesmere Rd,2752
+markham and dynamic,Markham Rd at Dynamic Dr,13706
+bathurst & finch,Bathurst St at Finch Ave West South Side,13709
+weston rd / eglinton west ave,Weston Rd at Eglinton Ave West,9677
+eastmall at rathburn,East Mall at Rathburn Rd,6011
+lawrence west stn,Lawrence Ave West at Weston Rd - Weston GO Station,5415
+malvern gates,Malvern Gates,6528
+375 danforth rd,375 Danforth Rd,1842
+kennedy stn,Kennedy Rd at Eglinton Ave East,2752
+bathurst & wilson ave,Bathurst St at Wilson Ave,200
+york u commons,York University Commons,11689
+wilson stn,Wilson Ave at Keele St East Side,8867
+jane  and church,Jane St at Church St,3872
+finch and arrow,Finch Ave East at Finchdene Sq West Side,9910
+warden station,Warden Ave at Steeles Ave East North Side,10536
+mccowan & steeles,McCowan Rd at Steeles Ave East North Side,9807
+dufferin and queen,Dufferin St at Queen St West,3587
+kingston loop,Kingston Rd at Victoria Park Ave,4266
+jane station.,Jane St at Finch Ave West South Side,3891
+eglinton and lascelles,Eglinton Ave West at Lascelles Blvd East Side,2374
+morningside- nightstar,Morningside Ave at Nightstar Rd,14104
+lawrence rt,Lawrence Ave East,5299
+papae stn,Pape Ave at O'Connor Dr North Side,4501
+steeles and jane,Steeles Ave West at Jane St,12088
+midland and steeles,Midland Ave at Steeles Ave East South Side,11251
+mofi,Morningside Ave at Finch Ave East,9910
+albion and claireport,Albion Rd at Claireport Cres (East),13427
+avenue rd & dupont.,Avenue Rd at Dupont St,62
+91a woodbine - parkview hills,91A Woodbine - Parkview Hills,7550
+esplanade / jarvis,The Esplanade at Lower Jarvis St East Side,6375
+don mills/wynford drive,Don Mills Rd at Wynford Dr,1977
+pape station,Pape Ave at O'Connor Dr North Side,4501
+humberloop.,Humber Loop at The Queensway,6532
+warden ave and eglinton ave e,Warden Ave at Eglinton Ave East,2752
+freshmeadow dr and donmills rd,Freshmeadow Dr at Don Mills Rd,2646
+weston and dennis,Weston Rd at Dennis Ave,8716
+pharmacy - brian,Pharmacy Ave at Brian Ave,6672
+finch station,Finch Ave West at Jane St,13709
+jane station,Jane St at Finch Ave West South Side,3891

@@ -1,0 +1,239 @@
+
+
+```csv
+0,NONE,NONE
+longbranch loop,Long Branch Loop,4435
+kipling stn,Kipling Ave at Bloor St West North Side,4291
+royal york at romney rd,Royal York Rd at Romney Rd,7024
+ossington stn,Ossington Ave at Bloor St West,9857
+keele station,Keele St at Finch Ave West North Side - Finch West Station,9149
+main stn,Main St at Danforth Ave,1262
+steeles loop,Steeles Ave West Loop at Martin Grove Rd,9824
+markham and eglinton,Markham Rd at Eglinton Ave East,4466
+lakeshore and marine parade,Lake Shore Blvd West at Thirty Seventh St,5164
+pape stn,Pape Ave at O'Connor Dr North Side,4501
+stc,NONE,NONE
+```
+
+
+```csv
+0,NONE,NONE
+stc,St Clair Station,4733
+donmills and lawrence,Don Mills Rd at Lawrence Ave East,1946
+danforth and danforth,Danforth Ave at Danforth Rd,1850
+yonge and yorkmills,York Mills Rd at Yonge St,9906
+founders,Steeles Ave West at Founders Rd - York University,1595
+sheppard station,Sheppard Ave West at Yonge St - Finch Station,9132
+syon,NONE,NONE
+warden and danforth,Warden Ave at Danforth Rd,9905
+morningside and staines,Morningside Ave at Staines Rd,14104
+willington,Wellington St West at Bay St,4710
+```
+
+
+```csv
+0,NONE,NONE
+willington,Wellington St West at Bay St,4710
+castleknock & eglinton,Eglinton Ave West at Castle Knock Rd,2336
+woodbine and danforth,Danforth Ave at Woodbine Ave,915
+weston/black creek,Weston Rd at Black Creek Dr,8696
+lawrence & yonge,Lawrence Ave West at Yonge St,5336
+wilson stn,Wilson Ave at Keele St,8869
+bloor and east mall,Bloor St West at The East Mall,510
+woodbine race track,Woodbine Race Track Loop (Main Entrance),13921
+rose hill and yonge st,Yonge St at Rosehill Ave,9040
+rivalda and sheppard,Sheppard Ave West at Rivalda Rd,6086
+york commons,Sheppard Ave East at Commons Dr,7172
+```
+
+
+```csv
+0,NONE,NONE
+york commons,Sheppard Ave East at Commons Dr,7172
+main stn.,Main St at Danforth Ave,1262
+york mills station,York Mills Rd at Yonge St,9906
+castle frank stn.,Bloor St East at Castle Frank Rd,476
+york u / commons,Sheppard Ave East at Commons Dr,11025
+rustic & keele,Keele St at Rustic Rd,4025
+don mills station,Don Mills Rd at Lawrence Ave East,1946
+peter kaiser and steeles,Steeles Ave West at Peter Kaiser Gate,6144
+victoria park stn.,Victoria Park Ave at Sheppard Ave East,7424
+valley woods rd. & york mills rd.,York Mills Rd at Valley Woods Rd,9088
+pape station,Pape Ave at Danforth Ave,1419
+
+```
+
+
+```csv
+0,NONE,NONE
+pape station,Pape Ave at O'Connor Dr,4501
+eglinton stn,Eglinton Ave East at Kennedy Station,3539
+humberwood loop,Humberwood Blvd at Honeyview Pl,11417
+keele & rogers,Rogers Rd at Keele St,6031
+warden ave and eglinton ave e,Warden Ave at Eglinton Ave East,8557
+york mills/leslie,York Mills Rd at Leslie St,9077
+victoria park station,Victoria Park Ave at Victoria Park Station,11376
+fstn,Finch West Station,9149
+bayview and york mills,Bayview Ave at York Mills Rd,329
+freshmeadow dr and donmills rd,Freshmeadow Dr at Don Mills Rd,2646
+downsview stn,Downsview Park Station,16345
+```
+
+
+```csv
+0,NONE,NONE
+downsview stn,Downsview Station,9149
+bathurst/st. clair,Bathurst St at St Clair Ave West,7899
+weston and albion,Weston Rd at Albion Rd,8722
+avon loop,Avon Loop at Weston Rd,13423
+keele and sheppard,Keele St at Sheppard Ave West,8082
+hwy 27 and humber college blvd,Highway 27 at Queen's Plate Dr - Woodbine Centre,11504
+east/lawerence,NONE,NONE
+kennedy stn.,Kennedy Station,3539
+downsview station,Downsview Station,9149
+lawrence w stn,Lawrence West Station,5415
+keele stn,Keele Station,6031
+```
+
+
+```csv
+0,NONE,NONE
+keele stn,Keele St at Finch Ave West,9149
+wellesley stn,Wellesley St East at Ontario St,8630
+davisville stn,Davisville Ave at Yonge St,1882
+nightstar & morningside,Nightstar Rd at Morningside Ave,13906
+nighstar & morningside,Nightstar Rd at Morningside Ave,13906
+ellesmere & miltary,Ellesmere Rd at Military Trail,7692
+ellesmee @ military trail,Ellesmere Rd at Military Trail,7692
+ellesmere and military trail,Ellesmere Rd at Military Trail,7692
+warden stn.,Warden Ave at Danforth Rd,9905
+york mills @ upjohn,York Mills Rd at Upjohn Rd,9086
+eglinton station,Eglinton Ave East at Kennedy Station,3539
+```
+
+
+```csv
+0,NONE,NONE
+eglinton station,Eglinton Station,3539
+dundas at humberside,Dundas St West at Humberside Ave,3500
+weston rd / eglinton west ave,Eglinton Ave West at Weston Rd,2419
+eastmall at rathburn,The East Mall at Rathburn Rd,2216
+lawrence west stn,Lawrence West Station,5415
+malvern gates,Malvern Gates,9591
+375 danforth rd,Danforth Rd at Birchmount Rd,1845
+kennedy stn,Kennedy Station,3539
+bayview and finch ave east,Finch Ave East at Bayview Ave,9127
+sheppard @ brenyon way,Sheppard Ave East at Brenyon Way,6069
+```
+
+
+```csv
+0,sheppard Ave East at Brenyon Way,10873
+sheppard @ brenyon way,Sheppard Ave East at Brenyon Way,10873
+kennedy - ellesmere,Kennedy Rd at Ellesmere Rd,2752
+markham and dynamic,NONE,NONE
+bathurst & finch,Bathurst St at Finch Ave West,3587
+weston & habitant,Weston Rd at Habitant Dr,8729
+pharmacy - brian,Pharmacy Ave at Brian Ave,6672
+finch station,Finch Ave West at Yonge St,9132
+yorkmills stn,York Mills Rd at Yonge St,9906
+donmills and finch ave east,Don Mills Rd at Finch Ave East,1932
+jane  and church,Jane St at Church St,3872
+```
+
+
+```csv
+0,NONE,NONE
+jane  and church,Jane St at Church St,3872
+finch and arrow,Finch Ave West at Arrow Rd,2585
+warden station,Warden Ave at Sheppard Ave East,12013
+main station,Main St at Gerrard St East,1264
+woodbine station,Woodbine Ave at Gerrard St East,8918
+christie station,Christie St at Dupont St,771
+malvern garage,NONE,NONE
+signet and steeles,Signet Dr at Steeles Ave West,8102
+carlaw and commissioner,Carlaw Ave at Commissioners St,4853
+jane and steeles,Jane St at Steeles Ave West,10412
+east liberty,East Liberty St at Pirandello St West Side,14537
+```
+
+
+```csv
+Value,Correct Name,Stop Code
+0,NONE,NONE
+east liberty,East Liberty St at Pirandello St,14537
+dynamic,Dynamic Dr at Turbina Ave,11564
+sherway grdns,Sherway Gardens Rd at Sherway Gate (Mall),3117
+bathurst/neptune,Bathurst St at Neptune Dr,179
+ossington station,Ossington Ave at Bloor St West,8008
+berry and parklawn,Berry Rd at Park Lawn Rd,11091
+royal york stn,Royal York Rd at Eglinton Ave West,12175
+runnymede loop,Runnymede Loop,4455
+pape,Pape Ave at O'Connor Dr,4501
+scat town centre station,East York Town Centre,11651
+finch at leslie,Finch Ave East at Leslie St,11264
+```
+
+
+```csv
+0,NONE,NONE
+finch at leslie,Leslie St at Finch Ave East,5455
+finch and weston,Finch Ave West at Weston Rd,8722
+markham and paasmore,Markham Rd at Passmore Ave,13900
+eglinton and lascelles,Eglinton Ave West at Lascelles Blvd,2375
+morningside- nightstar,Morningside Ave at Nightstar Rd,14104
+lawrence rt,Lawrence Ave East at Orton Park Rd,5299
+papae stn,Pape Ave at Danforth Ave,6628
+steeles and jane,Steeles Ave West at Jane St,12088
+midland and steeles,Midland Ave at Steeles Ave East,11251
+mofi,NONE,NONE
+albion and claireport,Albion Rd at Claireport Cres (East),13429
+
+```
+
+
+```csv
+0,NONE,NONE
+albion and claireport,Albion Rd at Claireport Cres (East),13429
+avenue rd & dupont.,Avenue Rd at Dupont St,62
+91a woodbine - parkview hills,NONE,NONE
+esplanade / jarvis,The Esplanade at Lower Jarvis St East Side,6375
+don mills/wynford drive,Don Mills Rd at Wynford Dr,1977
+eglinton - bellamy s,Eglinton Ave East at Bellamy Rd South,9613
+cherry / commissioners,Cherry St at Commissioners St,4898
+bathurst stn,Bathurst St at Elm Ridge Dr,134
+morningside @ finch,Morningside Ave at Finch Ave East,11415
+don mills stn,Don Mills Station,14623
+terminal 3,Pearson Airport Terminal 3 - Arrivals Level Columns C8-C12,14278
+```
+
+
+```csv
+0,NONE,NONE
+terminal 3,Pearson Airport Terminal 3 - Arrivals Level Columns C8-C12,14278
+don mills/sheppard,Don Mills Rd at Sheppard Ave East,1970
+pharmacy and hollydene,Pharmacy Ave at Hollydene Rd,6672
+lawrence station exit,Lawrence Station,1234
+finch ave east & middlefield ave,Finch Ave East at Middlefield Rd,2532
+york u commons,York University Commons,11025
+lawrence and warden,Lawrence Ave East at Warden Ave,13704
+eglinton garage,Eglinton Ave East at Kennedy Station,3539
+eglinton west stn,Eglinton West Station,9897
+upper canada dr and fairmeadow,Upper Canada Dr at Fairmeadow Ave,8393
+sheppard stn,Sheppard-Yonge Station,14771
+```
+
+
+```csv
+0,NONE,NONE
+sheppard stn,Sheppard-Yonge Station,14771
+matheson and eglinton,NONE,NONE
+neilson and finch,Finch Ave East at Neilson Rd West Side,9909
+montressor dr.,Montressor Dr at Troon Crt North Side,7983
+ellesmere and meadowvale,Ellesmere Rd at Meadowvale Rd,11669
+st clair stn,St. Clair Station,4733
+necr,Scarborough Health Network Centenary Hospital,7704
+morningside and sewells,Morningside Ave at Sewells Rd,9502
+runnymede station,Runnymede Station,14755
+steeles and yonge loop,Steeles Ave East at Yonge St East Side,9807
+```

@@ -1,0 +1,13 @@
+```csv
+0,NONE,NONE
+sheppard stn,Sheppard-Yonge Station,14771
+matheson and eglinton,NONE,NONE
+neilson and finch,Finch Ave East at Neilson Rd West Side,9909
+montressor dr.,Montressor Dr at Troon Crt North Side,7983
+ellesmere and meadowvale,Ellesmere Rd at Meadowvale Rd,11669
+st clair stn,St. Clair Station,4733
+necr,Scarborough Health Network Centenary Hospital,7704
+morningside and sewells,Morningside Ave at Sewells Rd,9502
+runnymede station,Runnymede Station,14755
+steeles and yonge loop,Steeles Ave East at Yonge St East Side,9807
+```
