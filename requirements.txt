@@ -2,3 +2,5 @@ requests
 beautifulsoup4
 -U googlemaps
 -q -U google-genai
+fuzzywuzzy
+python-Levenshtein
