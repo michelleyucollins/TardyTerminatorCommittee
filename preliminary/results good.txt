@@ -76,7 +76,7 @@ markham rd at dynamic dr, Markham Rd at Turbina Ave, 75
 bathurst st at steeles ave west, Bathurst St at Steeles Ave West, 80
 weston rd at haberdon cres, Weston Rd at Habitant Dr, 90
 pharmacy ave at brian dr, Pharmacy Ave at Brian Ave, 95
-Finch Ave West at Yonge St - Finch Station, Finch Ave West at Yonge St - Finch Station, 100
+Finch Station, Finch Station, 100
 Yonge St at York Mills Rd North Side - York Mills Station, Yonge St at York Mills Rd North Side - York Mills Station, 100
 Freshmeadow Dr at Don Mills Rd, NONE, 40
 Wilson Station, Wilson Station, 100
@@ -203,7 +203,7 @@ dundas west stationq, Dundas West Station, 100
 finch & baldoon, Finch Ave East at Baldoon Rd, 85
 lawrence station, Lawrence Ave at Yonge St - Lawrence Station, 100
 york university commons, York University Commons, 100
-finch station, Finch Ave West at Yonge St - Finch Station, 100
+finch station, Finch Station, 100
 dufferin mall, Dufferin Mall, 100
 st. clair w. station, St Clair Ave West at Yonge St West Side, 70
 scarborough centre station, Scarborough Centre Station, 100
@@ -228,7 +228,7 @@ rish, NONE, 40
 weston rd / st.clair west, Weston Rd at St Clair Ave West South Side, 75
 wilson garage, NONE, 40
 Jane St at East Dr, Jane St at East Dr, 100
-finch station, Finch Ave West at Yonge St - Finch Station, 90
+finch station, Finch Station, 90
 victoria park / eglinton, Victoria Park Ave at Eglinton Ave East, 80
 arrow garage,NONE, 40
 star spray loop, Starspray Loop at Lawrence Ave East, 100
@@ -581,7 +581,7 @@ islington at lakeshore, Islington Ave at Lake Shore Blvd West, 100
 guildwood & kingston, Kingston Rd at Guildwood Pkwy, 90
 islington station, Islington Station, 100
 yonge st at steeles, Steeles Ave West at Yonge St, 80
-finch avenue, Finch Ave West at Yonge St - Finch Station, 70
+finch avenue, Finch Station, 70
 queen & lansdowne, Queen St West at Lansdowne Ave, 90
 yorkmills station, Yonge St at York Mills Rd North Side - York Mills Station, 80
 weston road and bellevue, Weston Rd at Bellevue Cres, 90
@@ -972,9 +972,9 @@ broadoaks & keele, Keele St at Broadoaks Dr, 90
 coxwell station to pharmacy craighton and warden station, NONE, NONE
 route 44 kipling s, NONE, NONE
 route 63, NONE, NONE
-finch station to scarborough town centre, Finch Ave West at Yonge St - Finch Station, 45
+finch station to scarborough town centre, Finch Station, 45
 ellesmere and principle, Ellesmere Rd at Principal Rd, 90
-finch station to old finch, Finch Ave West at Yonge St - Finch Station, 45
+finch station to old finch, Finch Station, 45
 islington at rathburn, Islington Ave at Rathburn Rd, 90
 the common, Sheppard Ave East at Commons Dr, 80
 steeles, Steeles Ave West at Jane St, 70
@@ -2828,7 +2828,7 @@ jane st and courage av, Jane St at Courage Ave South Side, 95
 st. lawrence, The Queensway at St Lawrence Ave, 90
 page and finch, Finch Ave East at Page Ave, 90
 bathrust and finch, Bathurst St at Finch Ave West South Side, 80
-finch station entrance, Finch Ave West at Yonge St - Finch Station, 85
+finch station entrance, Finch Station, 85
 horsham ave, Yonge St at Horsham Ave, 90
 murry ross pkwy, Murray Ross Pkwy at Sentinel Rd, 90
 sheppard/markham, Sheppard Ave East at Markham Rd, 90
@@ -2960,7 +2960,7 @@ warden and major mac, Warden Ave at Major Mackenzie Dr East, 90
 coxwell and strathmore, Coxwell Ave at Strathmore Blvd, 90
 finchdene sq., Finchdene Sq at Torham Pl, 100
 ellesmere and military trail at uft, Ellesmere Rd at Military Trail (West), 80
-fiinch station, Finch Ave West at Yonge St - Finch Station, 80
+fiinch station, Finch Station, 80
 northover sheppard, Sheppard Ave West at Northwood Park, 70
 kennedy & mcnicoll, Kennedy Rd at McNicoll Ave, 90
 markham rd and passmore, Markham Rd at Passmore Ave North Side, 95
@@ -3567,7 +3567,7 @@ Sheppard Ave West at Laura Rd, Sheppard Ave West at Laura Rd, 100
 Wicksteed Ave at Brentcliffe Rd, Wicksteed Ave at Brentcliffe Rd, 100
 Strachan Ave at Canniff St, Strachan Ave at Canniff St, 100
 Kipling Ave at Lake Shore Blvd West, Kipling Ave at Lake Shore Blvd West, 100
-Finch Ave West at Yonge St - Finch Station, NONE, 50
+Finch Station, NONE, 50
 Kipling Ave at Lake Shore Blvd West, Kipling Ave at Lake Shore Blvd West, 100
 Don Mills Rd at Eglinton Ave East South Side, NONE, 40
 Downsview Park Station, Downsview Park Station, 90
@@ -5210,7 +5210,7 @@ st clair and o' conner, St Clair Ave East at O'Connor Dr, 90
 martin grove and bloor, Martin Grove Rd at Bloor St West, 80
 east liberty and strachan, East Liberty St at Strachan Ave, 90
 queensway / algie, The Queensway at Algie Ave, 90
-finch st, Finch Ave West at Yonge St - Finch Station, 70
+finch st, Finch Station, 70
 queensway / royal york, The Queensway at Royal York Rd, 90
 lebovic ave, Eglinton Ave East at Lebovic Ave, 90
 weston rd and denison, Weston Rd at Denison Rd East, 95
@@ -5382,7 +5382,7 @@ tapscott just n. of newgale gate(c.p. rail crossing), Tapscott Rd at Newgale Gat
 christie & davenport, Davenport Rd at Christie St, 100
 from castlefrank station to ossington station, NONE, 0
 fromvictoria park station to steeles ave, Victoria Park Ave at Steeles Ave East, 60
-exiting finch station on finch avenue, Finch Ave West at Yonge St - Finch Station, 90
+exiting finch station on finch avenue, Finch Station, 90
 kennedy & eglinton, Kennedy Rd at Eglinton Ave East, 90
 kennedy rd & eglinton ave, Kennedy Rd at Eglinton Ave East, 100
 eglinotn station, Eglinton Station, 90
@@ -6423,7 +6423,7 @@ binghamloop, Bingham Loop, 90
 la. west station, Lawrence West Station, 80
 morningview tr. and old finch, Morningview Trail at Old Finch Ave South Side, 70
 scarlett to yonge on lawrence, NONE, NONE
-finch w, Finch Ave West at Yonge St - Finch Station, 70
+finch w, Finch Station, 70
 adelaide / peter, Adelaide St West at Yonge St - King Station, 60
 yorkmills station to roywood, NONE, NONE
 keele and ruterford, NONE, NONE
@@ -6815,7 +6815,7 @@ eglinton from yonge to mt. pleasant, Eglinton Ave West at Yonge St, 50
 eglinton and mt.pleasant, Mt Pleasant Rd at Eglinton Ave East North Side, 90
 steeles loop martingrove, Steeles Ave West Loop at Martin Grove Rd, 90
 eglinton from yonge to mt. pleasant., Eglinton Ave West at Yonge St, 50
-finch statione, Finch Ave West at Yonge St - Finch Station, 90
+finch statione, Finch Station, 90
 islington  station, Islington Station, 100
 welliongton & bay, Wellington St West at Bay St, 80
 murrison blvd, Murison Blvd at Milner Ave North Side, 70
@@ -7982,7 +7982,7 @@ on entire route, NONE, 0
 keele  / lloyd, NONE, 0
 vitoria park and don mills station, Victoria Park Ave at Sheppard Ave East North Side, 40
 dufferin and centre, NONE, 0
-exit on finch station at finch, Finch Ave West at Yonge St - Finch Station, 30
+exit on finch station at finch, Finch Station, 30
 shepperd and victoria park, Sheppard Ave East at Victoria Park Ave, 90
 select and markham rd, Markham Rd at Select Ave, 90
 bayview and fleming, Bayview Ave at Fleming Cres North Side, 90
@@ -8499,7 +8499,7 @@ dons to fmdm bw and ov to law bw, NONE, 40
 renforth & eglington, Renforth Dr at Eglinton Ave West, 80
 royal york station to albion@claireport, NONE, NONE
 kipling/lakeshore at richmond/spadina, NONE, NONE
-finch station to antibies, Finch Ave West at Yonge St - Finch Station, 60
+finch station to antibies, Finch Station, 60
 hambly and queen, Hambly Ave at Queen St East North Side, 80
 emmett ave & hospital roadway, NONE, NONE
 sheppard and doris., Sheppard Ave East at Doris Ave, 90
@@ -9739,7 +9739,7 @@ bay and st joseph street., Bay St at St Joseph St North Side, 95
 finch and willowdale, Finch Ave East at Willowdale Ave, 80
 castlefrank to queen, NONE, NONE
 woodbine to the loop, Woodbine Beach Loop at Lake Shore Blvd East, 70
-finch and approach to finch station, Finch Ave West at Yonge St - Finch Station, 75
+finch and approach to finch station, Finch Station, 75
 eglinton/brentcliff, Brentcliffe Rd at Vanderhoof Ave, 75
 main to queen, Main St at Danforth Ave, 60
 bothway between jane and bathurst, NONE, NONE
@@ -10212,7 +10212,7 @@ jane/driftwood, Jane St at Driftwood Ave, 80
 comissioner, NONE, 0
 jane  station, Jane St at Annette St, 20
 bathurst & olive `, Bathurst St at Olive Ave, 90
-finch to lawrence, Finch Ave West at Yonge St - Finch Station, 30
+finch to lawrence, Finch Station, 30
 yorkwood gate, Driftwood Ave at Yorkwoods Gate, 90
 leslie and york mills ave, Leslie St at York Mills Rd, 70
 lawrence east rt`, Lawrence Ave East at Kingston Rd - Highway 2A Overpass, 50
@@ -11325,7 +11325,7 @@ along kingston & victoria park, Kingston Rd at Victoria Park Ave, 60
 o'connor and bermondsey, O'Connor Dr at Bermondsey Rd, 80
 dubray and wilson, NONE, 0
 st clair west to gunns loop, Gunns Loop at St Clair Ave West, 90
-finch ave west entire route, Finch Ave West at Yonge St - Finch Station, 80
+finch ave west entire route, Finch Station, 80
 college and euclid, College St at Euclid Ave, 90
 markbrook lane and steeles, Steeles Ave West at Markbrook Lane, 90
 finch ave east and mccowan rd., Finch Ave East at McCowan Rd, 90
@@ -11455,7 +11455,7 @@ south service road, South Service Rd at Transway Cres, 80
 entire burnhamthorpe route., Burnhamthorpe Rd at Martin Grove Rd, 70
 sheppard avenue east at durnford road, Sheppard Ave East at Durnford Rd, 90
 ellesmere rda nd morningside ave, Ellesmere Rd at Morningside Ave, 90
-finch station to york u commons, Finch Ave West at Yonge St - Finch Station, 50
+finch station to york u commons, Finch Station, 50
 ykm/don mills, York Mills Rd at Don Mills Rd, 80
 york ridge and york mills, York Mills Rd at York Ridge Rd, 90
 wast to agln, NONE, 20
@@ -11743,7 +11743,7 @@ university of toronto scarborough campus loop, Military Trail at University of T
 dundas / lib, NONE, 10
 woodbine and lawrence, Lawrence Ave East at Woodcliff Pl West Side, 65
 military trail & morningside, Military Trail at Morningside Ave, 85
-finch statiion, Finch Ave West at Yonge St - Finch Station, 70
+finch statiion, Finch Station, 70
 livingston & kingston, Guildwood Pkwy at Livingston Rd, 75
 1057 don mills, NONE, 30
 davisville at bayview, Davisville Ave at Bayview Ave, 90
@@ -13597,7 +13597,7 @@ parliament to bathurst, NONE, NONE
 rogers & kane, NONE, 0
 wilson at laurentia, NONE, 0
 widdicombe and kipling, Kipling Ave at Widdicombe Hill Blvd, 70
-yonge street on finch ave, Finch Ave West at Yonge St - Finch Station, 75
+yonge street on finch ave, Finch Station, 75
 mty dennis garage pod townsley loop., NONE, 0
 53 steeles route all branches, NONE, 0
 victoria park & lawrence ave, Victoria Park Ave at Lawrence Ave East, 85
@@ -14030,7 +14030,7 @@ ellesmere and bayview, Ellesmere Rd at Bayview Ave, 50
 richmond to peter and adelaide, NONE, NONE
 bellamy road route, NONE, NONE
 york univ coomons, York University Commons, 90
-finch station to dynamic, Finch Ave West at Yonge St - Finch Station, 50
+finch station to dynamic, Finch Station, 50
 islington to prince edward, Islington Ave at Prince Edward Dr, 70
 scarborugh twon centre, Scarborough Town Centre, 90
 queen and ohara, Queen St West at O'Hara Ave, 90
@@ -14665,7 +14665,7 @@ mount dennis to bedford/dupont, NONE, 30
 kingston rd at brimley rd, Kingston Rd at Brimley Rd, 100
 st.clair station @ pleasant, NONE, NONE
 laird and lea, Laird Dr at Lea Ave, 90
-finch station ( first bus delay), Finch Ave West at Yonge St - Finch Station, 70
+finch station ( first bus delay), Finch Station, 70
 bater ave. on broadview, Broadview Ave at Bater Ave, 90
 mill rd/markland, Markland Dr at Mill Rd, 100
 drummond & keele, NONE, NONE
@@ -16133,7 +16133,7 @@ york mills/up john, York Mills Rd at Upjohn Rd, 90
 trethewey and tedder, NONE, NONE
 birchmount rd. on finch, Birchmount Rd at Finch Ave East, 80
 york mills road/ victoria park, York Mills Rd at Victoria Park Ave, 80
-finch stations, Finch Ave West at Yonge St - Finch Station, 70
+finch stations, Finch Station, 70
 69 warden south route, NONE, NONE
 102 markham road route, NONE, NONE
 banntyne and silvergrove, Bannatyne Dr at Silvergrove Rd, 95
@@ -16797,7 +16797,7 @@ rainee, Ranee Ave at Varna Dr - Yorkdale Station, 70
 leaside rte, Overlea Blvd at Thorncliffe Park Dr (East), 70
 avenue rte, Avenue Rd at Eglinton Ave West, 70
 mildland and eglinton, Midland Ave at Eglinton Ave East, 100
-finch station at 310pm, Finch Ave West at Yonge St - Finch Station, 90
+finch station at 310pm, Finch Station, 90
 victoria park to steeles, Victoria Park Ave at Steeles Ave East, 100
 bahturst north route, Bathurst St at Steeles Ave West, 60
 bishop ave and yonge st, Yonge St at Bishop Ave North Side - Finch Station, 90
@@ -17337,7 +17337,7 @@ gerrard and victoria parl, Victoria Park Ave at Gerrard St East, 90
 finch / pearldale, Finch Ave West at Pearldale Ave, 80
 morningside & 401,  Birchmount Rd at Highway 401 - Walkway North of Rolark, 70
 kingston & collingsgrove, Kingston Rd at Collinsgrove Rd, 85
-fsnt - finch station, Finch Ave West at Yonge St - Finch Station, 75
+fsnt - finch station, Finch Station, 75
 webr - weston rd / bradstock, Weston Rd at Bradstock Rd, 80
 wilmington and finch, Finch Ave West at Wilmington Ave, 85
 carlton and yonge, Carlton St at Yonge St - College Station, 90
@@ -17735,7 +17735,7 @@ dufferin mall & bloor, Dufferin Mall, 90
 waarden ave fairfax ave, Warden Ave at Fairfax Cres, 90
 rglinton yard, NONE, 0
 brimley rd route, Brimley Rd at Steeles Ave East, 40
-finch station to scarborough town center, Finch Ave West at Yonge St - Finch Station, 30
+finch station to scarborough town center, Finch Station, 30
 finch station to old finch and valley center, NONE, 0
 victoria park and ellesmere rd, Victoria Park Ave at Ellesmere Rd, 90
 victoria park & parkwoods village, Victoria Park Ave at Parkwoods Village Dr, 80
@@ -19065,7 +19065,7 @@ Eglinton Ave East at Bayview Ave, Eglinton Ave East at Bayview Ave, 80
 Kennedy Rd at Progress Ave, Scarborough Centre Station, 75
 Castle Frank Station, Castle Frank Station, 100
 Bayview Ave at Valleyanna Dr, Bayview Ave at Valleyanna Dr, 70
-Leslie St at Lawrence Ave East, Finch Ave West at Yonge St - Finch Station, 60
+Leslie St at Lawrence Ave East, Finch Station, 60
 Avenue Rd at Lawrence Ave West, Bombay Loop at Avenue Rd, 65
 Main St, Main St, 95
 Eglinton Ave East at Laird Dr, Yonge St, 55
@@ -19999,7 +19999,7 @@ don mills  and sheppard, Don Mills Rd at Sheppard Ave East, 90
 yonge blvd/wilson av, Yonge Blvd at Wilson Ave, 90
 victoria park/gordon baker av, Victoria Park Ave at Gordon Baker Rd, 90
 st. clair and plaxton, St Clair Ave East at Plaxton Dr, 90
-finch station (due out at 333pm), Finch Ave West at Yonge St - Finch Station, 70
+finch station (due out at 333pm), Finch Station, 70
 donmills / goodwill rd, Don Mills Rd at Goodview Rd, 90
 victoria park & sunrise, Victoria Park Ave at Sweeney Dr, 70
 victory and airport, Airport Rd at Victory Cres, 90
@@ -20281,7 +20281,7 @@ not tracking, NONE, NONE
 woodbine ave and kingston rd, Woodbine Ave at Kingston Rd, 90
 markham road and eglinton ave east, Markham Rd at Eglinton Ave East, 90
 keele & dovehouse, Keele St at Dovehouse Ave, 80
-finch w & yonge, Finch Ave West at Yonge St - Finch Station, 80
+finch w & yonge, Finch Station, 80
 midland and steeles., Midland Ave at Steeles Ave East, 90
 roywood and underpass gate, Underpass Gate at Roywood Dr, 70
 NONE, NONE, NONE
@@ -22604,7 +22604,7 @@ mount dennis to lawrence west station, Lawrence West Station, 90
 danforth vp, NONE, 60
 bathurst station to steeles, Bathurst St at Steeles Ave West, 65
 steeles to victoria park station bothway, Victoria Park Ave at Steeles Ave East, 70
-finch station to scarborough town center - b/w's, Finch Ave West at Yonge St - Finch Station, 60
+finch station to scarborough town center - b/w's, Finch Station, 60
 finch stattion to necr/ofin  -  b/w's, Norfinch Dr at Finch Ave West North Side, 60
 sheppard station to don mills station, Sheppard Ave East at Don Mills Rd, 80
 100-flemingdon route, NONE, 50
@@ -24657,7 +24657,7 @@ finch ave e at highway 404, Finch Ave East at Yonge St East Side, 50
 oakwood and st.clair ave, Oakwood Ave at St Clair Ave West, 100
 finch - page, Finch Ave East at Page Ave, 70
 Scarborough Town Center - rhgo, NONE, NONE
-finch ave - finch station, Finch Ave West at Yonge St - Finch Station, 90
+finch ave - finch station, Finch Station, 90
 eglinton station to queens patrk cr, NONE, NONE
 dixon and islingtion, Dixon Rd at Islington Ave, 85
 brentcliff to eglinton station, NONE, NONE
@@ -25846,7 +25846,7 @@ neilson rd and sheppard ave., Neilson Rd at Sheppard Ave East, 90
 finch station to comm, Finch Ave West at Weston Rd, 60
 finch to ofin, Norfinch Dr at Finch Ave West North Side, 70
 connaught and queen, North Queen St at Atomic Ave, 60
-ofin to finch, Finch Ave West at Yonge St - Finch Station, 70
+ofin to finch, Finch Station, 70
 beachwood and lambton, Lambton Ave at Beechwood Ave East Side, 90
 glenwood cr and o'connor dr, O'Connor Dr at Glenwood Cres, 90
 Birchmount Rd at Kingston Rd, Birchmount Rd at Kingston Rd, 100
@@ -26207,8 +26207,8 @@ Yonge St at Front St East, Yonge St at Front St East, 90
 Bay St at Adelaide St West, Bay St at Adelaide St West North Side, 90
 Arrow Rd at Finch Ave West, Arrow Rd at Finch Ave West, 85
 Eglinton Ave West at Lascelles Blvd, Eglinton Ave West at Lascelles Blvd East Side, 90
-Finch Ave West at Yonge St - Finch Station, Finch Ave West at Virgilwood Dr - North York General Finch Branson Site, 60
-Finch Ave West at Yonge St - Finch Station, Scarborough Town Centre, 50
+Finch Station, Finch Ave West at Virgilwood Dr - North York General Finch Branson Site, 60
+Finch Station, Scarborough Town Centre, 50
 Birchmount Rd at Merrifield Dr, Birchmount Rd at Merryfield Dr, 90
 Kipling Ave at Racine Rd, Kipling Ave at Racine Rd, 100
 Eglinton Ave East at Yonge St, Eglinton Ave East at Danforth Rd, 50
@@ -26263,14 +26263,14 @@ Finch Ave East at Maxome Ave, Finch Ave East at Maxome Ave, 90
 Greenwood Ave at Danforth Ave, Greenwood Ave at Danforth Ave, 80
 Yonge St at Front St East, Yonge St at Front St East, 80
 Bathurst St at Greenwin Village Rd, Bathurst St at Greenwin Village Rd, 90
-Finch Ave West at Yonge St - Finch Station, Finch Ave West at Yonge St - Finch Station, 90
+Finch Station, Finch Station, 90
 NONE, NONE, NONE
 Kennedy Station, Kennedy Station, 100
 143 Church St, 140 Church St, 70
 Kipling Ave at Dundas St West, Dundas St West at Kipling Ave, 70
 bayview and cummer to steeles loop, NONE, NONE
 swmo - kenn, Sewells Rd at Kennedy Rd, 60
-finch station to scarbrough town centre., Finch Ave West at Yonge St - Finch Station, 50
+finch station to scarbrough town centre., Finch Station, 50
 finch station to victoria park., Finch Ave East at Victoria Park Ave, 50
 steeles & hidden trail, Steeles Ave West at Hidden Trail, 85
 queen glenmanor, Queen St East at Glen Manor Dr, 70
@@ -26615,7 +26615,7 @@ NONE, NONE, NONE
 NONE, NONE, 50
 calvington and sunray cres, NONE, 0
 lawrence midland ave, Lawrence Ave East at Midland Ave, 90
-finch - finch station, Finch Ave West at Yonge St - Finch Station, 80
+finch - finch station, Finch Station, 80
 front between dan leckie-bathurst, NONE, 0
 weston rd and humber blvd, Weston Rd at Humber Blvd, 90
 mccowan/triton, McCowan Rd at Triton Rd, 90
@@ -26802,7 +26802,7 @@ NONE, NONE, NONE
 St George Station, St George Station, 100
 Lansdowne Ave at St Clair Ave West, Lansdowne Ave at St Clair Ave West, 100
 Yonge St at Yonge Blvd, Yonge Blvd at Apsley Rd, 60
-Finch Station, Finch Ave West at Yonge St - Finch Station, 30
+Finch Station, Finch Station, 30
 McCowan Rd at Huntingwood Dr, McCowan Rd at Huntingwood Dr, 100
 Finch Ave East at Brimley Rd, Finch Ave East at Brimley Rd, 100
 Bedford Rd at Dupont St, Bedford Rd at Dupont St, 100
@@ -27051,7 +27051,7 @@ kingston rd at ellesmere rd, Ellesmere Rd at Military Trail, 70
 yonge st at st edmund's dr, Yonge St at St Edmund's Dr, 90
 eglinton rt station, NONE, 60
 middlefeild loop, NONE, 50
-finch statiopn, Finch Ave West at Yonge St - Finch Station, 75
+finch statiopn, Finch Station, 75
 kennedy forbes ave, Kennedy Rd at Forbes Rd, 90
 yorkmill rd and silverdale cresent, York Mills Rd at Silverdale Cres, 85
 steeles ave west at klondike dr, Steeles Ave West at Klondike Dr, 90
@@ -27116,7 +27116,7 @@ coronation dr and wallsend dr, Coronation Dr at Wallsend Dr, 90
 between horner and lakeshore, NONE, NONE
 horner to lakeshore, Horner Ave at Lake Shore Blvd West, 70
 weston road to caledonia, Weston Rd at Caledonia Rd, 70
-steeles to finch southbound, Finch Ave West at Yonge St - Finch Station, 70
+steeles to finch southbound, Finch Station, 70
 eglinton to st clair, Eglinton Ave West at St Clair Ave West, 50
 galloway and kingston road, Kingston Rd at Galloway Rd, 90
 bathurst and glencarin, Bathurst St at Glencairn Ave, 90
@@ -27850,7 +27850,7 @@ wicksteed and beth nealson, Wicksteed Ave at Beth Nealson Dr, 100
 nashdene/markham, Markham Rd at Nashdene Rd, 90
 village ate/steeles, Village Gate at Steeles Ave West, 85
 morningside ave and sewells rd, Morningside Ave at Sewells Rd, 95
-fiyg - finch west & yonge st, Finch Ave West at Yonge St - Finch Station, 75
+fiyg - finch west & yonge st, Finch Station, 75
 dundas-kingston, NONE, NONE
 annette and dumdas, Annette St at Dundas St West, 70
 humber college blvd and finch, Humber College Blvd at Finch Ave West South Side, 90
@@ -28747,7 +28747,7 @@ Wellesley St East at Ontario St, NONE, NONE
 Toronto Zoo, Scarborough Town Centre, 70
 NONE, NONE, NONE
 Steeles Ave East at Don Mills Rd, Victoria Park Ave at Steeles Ave East, 70
-Finch Ave West at Yonge St - Finch Station, 250 Norfinch Dr, 80
+Finch Station, 250 Norfinch Dr, 80
 Sheppard Ave East at Victoria Park Ave, Sheppard Ave West at Victoria Park Ave, 85
 Pleasant Blvd at Avoca Ave, NONE, NONE
 Ellesmere Rd at Brimley Rd, NONE, 0
@@ -28791,8 +28791,8 @@ plains/coxwell, Coxwell Ave at Plains Rd, 90
 wilson station to princes gates., NONE, NONE
 jane and 400 bridge, NONE, NONE
 sheppard from pharmacy to don mills station, Sheppard Ave East at Don Mills Rd, 85
-between finch station and Scarborough Town Center, Finch Ave West at Yonge St - Finch Station, 60
-between finch station and old finch, Finch Ave West at Yonge St - Finch Station, 60
+between finch station and Scarborough Town Center, Finch Station, 60
+between finch station and old finch, Finch Station, 60
 trethewey and brookhaven, Trethewey Dr at Brookhaven Dr, 90
 scott & front, NONE, 40
 lawrence and scar. golf club, Lawrence Ave East at Scarborough Golf Club Rd, 90
@@ -29256,7 +29256,7 @@ milner business court, Progress Ave at Milner Business Crt, 95
 brownsline/lakeshore (long branch loop), Long Branch Loop, 80
 middlefield route, Middlefield Rd, 70
 steeles / willowdale, Steeles Ave East at Willowdale Ave, 80
-finch station / antibes, Finch Ave West at Yonge St - Finch Station, 60
+finch station / antibes, Finch Station, 60
 lawrence station / sunnybrooke, NONE, NONE
 maybrook / finch station, NONE, NONE
 mccowan to milner, McCowan Rd at Milner Ave, 70
@@ -29677,7 +29677,7 @@ Bathurst St at Vesta Dr, Bathurst St at Vesta Dr, 100
 Martin Grove Rd at Tollington Rd, Martin Grove Rd at Tollington Rd, 90
 Sheppard Ave West at Beecroft Rd West Side, Sheppard Ave West at Beecroft Rd, 95
 Jane St at Yorkwoods Gate, Jane St at Yorkwoods Gate, 100
-Finch Ave West at Yonge St - Finch Station, Finch Ave West at Yonge St - Finch Station, 100
+Finch Station, Finch Station, 100
 Birchmount Rd at Bonis Ave, Birchmount Rd at Bonis Ave, 100
 NONE, NONE, NONE
 Danforth Rd at Warden Ave, Warden Ave at Danforth Rd, 80
@@ -29691,7 +29691,7 @@ harewood/kingston, Kingston Rd at Highview Ave, 75
 wilson station to sheppard and arleta, Wilson Station, 30
 scarlett / east dr, Scarlett Rd at East Dr, 90
 eglinton ave and birchmount rd, Eglinton Ave East at Birchmount Rd, 90
-finch west & yonge st, Finch Ave West at Yonge St - Finch Station, 90
+finch west & yonge st, Finch Station, 90
 eglinton and cedar dr, Eglinton Ave East at Cedar Dr, 90
 thorncliff pk and overlea blvd, Overlea Blvd at Thorncliffe Park Dr (East), 80
 nb at lawrence and caledonia, St Clair Ave West at Caledonia Rd East Side, 70
@@ -30960,7 +30960,7 @@ oswego and eglinton, NONE, 10
 bathuerst north route, Bathurst St at Steeles Ave West, 40
 lawrence station - sunnybrooke hospital, Lawrence Ave West at Culford Rd, 30
 steeles - willowdale, Steeles Ave East at Willowdale Ave, 60
-finch station - drewry, Finch Ave West at Yonge St - Finch Station, 30
+finch station - drewry, Finch Station, 30
 sheppard/markham road, Sheppard Ave East at Markham Rd, 80
 o'connor & sandra, O'Connor Dr at Sandra Rd, 70
 134 progress all branch, NONE, 10
@@ -31504,7 +31504,7 @@ lawrence west station to weston rd and oak st., Weston Rd at Oak St, 60
 davenport rd to ridelle ave, NONE, 0
 jane station to pioneer village station, Jane Station, 70
 dons to Scarborough Town Center, Scarborough Town Centre, 10
-Finch Ave West at Yonge St - Finch Station, NONE, 50
+Finch Station, NONE, 50
 Kennedy Rd at Highview Ave South Side, Kennedy Rd at Highview Ave, 100
 Caledonia Rd at Kitchener Ave, Caledonia Rd at Kitchener Ave, 100
 Grandravine Dr at Futura Dr, Grandravine Dr at Futura Dr, 100
@@ -31637,7 +31637,7 @@ steele ave west and barmac ave to yorkmills station, Steeles Ave West at Barmac 
 thistledown ave and albion rd to wilson station, Albion Rd at Elmhurst Dr, 40
 humber college to yorkmills station, Humber College Blvd at Humberline Dr, 40
 arrow rd and bartor rd, Arrow Rd at Bartor Rd, 100
-finch station and dynamic,  Finch Ave West at Yonge St - Finch Station, 60
+finch station and dynamic,  Finch Station, 60
 glengrove and bathurst, Glencairn Ave at Bathurst St, 85
 kennedy on st. clar, St Clair Ave East at Kennedy Rd, 80
 steeles and bayview to davisville station, Steeles Ave East at Bayview Ave, 50
@@ -32082,7 +32082,7 @@ Dufferin St at St Clair Ave West, Dufferin St at St Clair Ave West, 100
 Barmac Dr at Steeles Ave West, Barmac Dr at Steeles Ave West, 100
 thistledown and albion rd, Wilson Station, 60
 carrier loop/ humberline loop, York Mills Station, 60
-finch w. station, Finch Ave West at Yonge St - Finch Station, 90
+finch w. station, Finch Station, 90
 swst to pvst, NONE, 0
 pioneer village station, Downsview Park Station, 50
 martingrove & finch, Martin Grove Rd at Finch Ave West, 80
@@ -32287,7 +32287,7 @@ dundas parliament, Parliament St at Dundas St East, 90
 middlefield/steeles, Middlefield Rd at Steeles Ave East, 90
 north queen and kipling, NONE, NONE
 mstn / cliffside, Kingston Rd at Cliffside Dr, 70
-finch west station to finch station, Finch Ave West at Yonge St - Finch Station, 50
+finch west station to finch station, Finch Station, 50
 don mills to eglinton/wynford, Eglinton Ave East at Wynford Dr, 70
 bombay loop and church and richmond, NONE, NONE
 york u. busway and york blvd., NONE, NONE
@@ -32576,7 +32576,7 @@ Ellesmere Rd at Zaph Ave, St Clair Ave East at St Clair College, 40
 Steeles Ave West at Bathurst St East Side, St Clair Ave East at Victoria Park Ave, 30
 Steeles Ave West at Bathurst St East Side, St Clair Ave East at Victoria Park Ave, 30
 Ellesmere Rd at Zaph Ave, St Clair Ave East at St Clair College, 40
-Finch Ave West at Yonge St - Finch Station, NONE, 50
+Finch Station, NONE, 50
 Finch Ave East at Yonge St - Finch Station, Drewry Ave at Yonge St, 60
 NONE, NONE, 0
 scarden ave and birchmount, Birchmount Rd at Scarden Ave, 90
@@ -32670,7 +32670,7 @@ Carlingview Dr at Disco Rd, Carlingview Dr at Disco Rd, 100
 St Dennis Dr at Linkwood Lane, St Dennis Dr at Deauville Lane, 90
 Reddins Rd at Crosland Dr, Reddins Rd at Crosland Dr, 100
 NONE, NONE, 0
-Finch Ave West at Yonge St - Finch Station, Finch Ave West at Dynamic Dr, 60
+Finch Station, Finch Ave West at Dynamic Dr, 60
 Birchmount Rd at Steeles Ave South Side, Scarborough Town Centre, 40
 NONE, NONE, 0
 Scarborough Town Centre, Finch Ave West at Weston Rd, 40
@@ -33511,7 +33511,7 @@ jne station, NONE, NONE
 painted post and markham rd, Markham Rd at Painted Post Dr, 90
 199 finch express-all branch, NONE, NONE
 95 york mills route-all branch, NONE, NONE
-39 finch route all branch, Finch Ave West at Yonge St - Finch Station, 60
+39 finch route all branch, Finch Station, 60
 loawrence station, Lawrence Station, 90
 wilson & ancaster, NONE, NONE
 artillery st-midland, Midland Ave at Artillery St, 90
@@ -35365,7 +35365,7 @@ yonge (bishop - sheppard), Yonge St at Bishop Ave North Side - Finch Station, 75
 vmc, Vaughan Metropolitan Centre Station, 100
 finch ave and yonge street, Finch Ave East at Yonge St - Finch Station, 90
 yonge st queens quay, Yonge St at Queens Quay East North Side - Union Station, 70
-fstn - finch station, Finch Ave West at Yonge St - Finch Station, 80
+fstn - finch station, Finch Station, 80
 wdoodbine station, Woodbine Station, 90
 eglinton ave kingston rd, Eglinton Ave East at Kingston Rd, 70
 warden comstock rd, Warden Ave at Comstock Rd, 90
@@ -36772,7 +36772,7 @@ Scarborough Town Center to fwstn, Scarborough Town Centre, 70
 midland to vic. park, Midland Ave at Victoria Park Ave, 80
 finch ave west and westmore dr, Finch Ave West at Westmore Dr, 100
 between finch west and Scarborough Town Center, NONE, 30
-Finch Ave West at Yonge St - Finch Station, NONE, 0
+Finch Station, NONE, 0
 Scarlett Rd at Eglinton Ave West, Eglinton Ave West at Scarlett Rd, 70
 Broadview Ave at Bater Ave, Broadview Ave at Bater Ave, 100
 St Clair Ave East at Victoria Park Ave, St Clair Ave East at Victoria Park Ave, 100
@@ -38365,7 +38365,7 @@ sclp military trail, St Clair Ave West at Mondovi Gate, 20
 st.clair and kingston rd, St Clair Ave East at Kingston Rd, 95
 front/ berkeley, Berkeley St at Front St East, 90
 134 progress route-all runs, Progress Ave at Milner Business Crt, 20
-finch west to finch station, Finch Ave West at Yonge St - Finch Station, 85
+finch west to finch station, Finch Station, 85
 Littles Rd at Old Finch Ave, Littles Rd at Old Finch Ave, 100
 Islington Ave at Norseman St, Islington Ave at Norseman St, 100
 Ellesmere Rd at Birchmount Rd, Ellesmere Rd at Birchmount Rd, 100
@@ -38785,7 +38785,7 @@ stephen dr and berry dr, Stephen Dr at Berry Rd, 90
 bracebridge, Bracebridge Ave at Woodbine Ave, 80
 christie/st. clair, Christie St at St Clair Ave West, 90
 steele loop at yonge st., Steeles Ave West at Yonge St - Centerpoint Mall, 90
-finch ave west and yonge st, Finch Ave West at Yonge St - Finch Station, 90
+finch ave west and yonge st, Finch Station, 90
 spanbridge and gernoble, Grenoble Dr at Spanbridge Rd, 90
 todd baylis by tretheway, Trethewey Dr at Todd Baylis Blvd, 90
 barter and arrow, Bartor Rd at Arrow Rd, 80
@@ -39077,7 +39077,7 @@ pioneer visllage station, Pioneer Village Station, 90
 adirondack crest and finch ave, NONE, NONE
 donlands statoin, Donlands Station, 100
 jane st at hullmar dr, Jane St at Hullmar Dr, 100
-finch ave west at yonge st, Finch Ave West at Yonge St - Finch Station, 80
+finch ave west at yonge st, Finch Station, 80
 martin grovr rd at royal crest, Martin Grove Rd at Royalcrest Rd, 80
 van horn and bickerton cr., Van Horne Ave at Bickerton Cres, 90
 voctoria park, Victoria Park, 90
@@ -39745,7 +39745,7 @@ u of t scarborough college loop, University of Toronto Scarborough, 80
 ykms to huml, York Mills Rd at Leslie St West Side, 50
 keele to wilson station, Keele St at Wilson Ave, 60
 keele st to wilson station, Keele St at Wilson Ave, 60
-finch station entrance (on the finch side), Finch Ave West at Yonge St - Finch Station, 70
+finch station entrance (on the finch side), Finch Station, 70
 muncey and elmhurst, Elmhurst Dr at Muncey Ave, 90
 jane to wilson station, Wilson Station, 90
 eglinton snt to freshmeadows at don mills rd, Freshmeadow Dr at Don Mills Rd, 70
@@ -41077,7 +41077,7 @@ coxwell station    queen, NONE, NONE
 wynford wb west of garamond court, NONE, NONE
 arlinton, Arlington Ave, 70
 chimneystack and keele, NONE, NONE
-finch subway station entrance, Finch Ave West at Yonge St - Finch Station, 75
+finch subway station entrance, Finch Station, 75
 victoria park ave and kingston road, Kingston Rd at Victoria Park Ave, 75
 express route Scarborough Town Center to donmills, Scarborough Town Centre, 60
 queen and kingston road, Queen St East at Kingston Rd, 70
@@ -41132,7 +41132,7 @@ montcalm/eglinton, Eglinton Ave West at Montcalm Ave, 70
 greenwin village/bathurst to bathurst station, Bathurst St at Greenwin Village Rd, 75
 coxwell & warden station + craigton and pharmacy, Pharmacy Ave at Craigton Dr, 70
 daws /main  and the danforth, Danforth Ave at Main St, 70
-939 finch express -all branches, Finch Ave West at Yonge St - Finch Station, 60
+939 finch express -all branches, Finch Station, 60
 eglintion / ellemere, Eglinton Ave East at Ellesmere Rd, 75
 don mills station to Scarborough Town Center don mills station to slp, Don Mills Rd at Sheppard Ave East, 55
 dundas/ college/ dufferin / queen, Dufferin St at Dundas St West, 60
@@ -41572,7 +41572,7 @@ rexdale to albion and kipling ave, Kipling Ave at Rexdale Blvd, 60
 fairview and sheppard, Sheppard Ave East at Fairview Mall Dr North Side, 70
 rexdale to hwlp, NONE, NONE
 new westminister, New Westminster Dr at Centre St, 80
-finch  station, Finch Ave West at Yonge St - Finch Station, 90
+finch  station, Finch Station, 90
 weston &  sheppard, Sheppard Ave West at Weston Rd, 85
 dundas w and bloor, Dundas St West at Bloor St West, 80
 brenyon way and sheppard, Sheppard Ave East at Brenyon Way, 85
@@ -42913,7 +42913,7 @@ mccowan loop and mccowan, McCowan Rd Loop at Steeles Ave East, 90
 glenwatford dr and sheppard, Sheppard Ave East at Glen Watford Dr, 90
 victoria pk and eglinton, Eglinton Ave East at Victoria Park Ave, 90
 victoria park ave and danfoth ave, Victoria Park Ave at Danforth Ave, 90
-sheppard station along the 98 route, Finch Ave West at Yonge St - Finch Station, 50
+sheppard station along the 98 route, Finch Station, 50
 bellemy and ellesmere rd, Bellamy Rd North at Ellesmere Rd, 90
 dufferin gate (spring hurst loop), Dufferin St at Springhurst Ave, 80
 firebrace/steeles, Steeles Ave East at Firebrace Rd West Side, 90
@@ -43068,7 +43068,7 @@ mimico ave at lake shore blvd west west side, Mimico Ave at Lake Shore Blvd West
 belllamy and ellesmere, Bellamy Rd North at Ellesmere Rd, 90
 dentinal and murray ross, NONE, 50
 lesmill and york mills rd, Lesmill Rd at York Mills Rd, 90
-byng and finch, Finch Ave West at Yonge St - Finch Station, 50
+byng and finch, Finch Station, 50
 night bus route on don mills, Don Mills Rd at Sheppard Ave East, 50
 night bus route on coxwell, Coxwell Ave at O'Connor Dr, 50
 braecrest ave & the westway, NONE, 50
@@ -44034,7 +44034,7 @@ dufferin from dupont to davenport, Davenport Rd at Dufferin St, 70
 kennedy station to midland ave/steeles ave e, Kennedy Rd at Steeles Ave East, 60
 graydon hall dr and don mills rd, Graydon Hall Dr at Don Mills Rd, 90
 lawernce and warden, Lawrence Ave East at Warden Ave, 90
-entire finch route, Finch Ave West at Yonge St - Finch Station, 60
+entire finch route, Finch Station, 60
 sheppard and brownspring rd, Sheppard Ave East at Brownspring Rd, 90
 135 gerrard st, 135 Gerrard St, 90
 dundas to t3, NONE, 0
@@ -44059,7 +44059,7 @@ jetliner and airport, Airport Rd at Jetliner Rd, 100
 weston @ ray, Weston Rd at Ray Ave, 90
 york mills station to meadowvale loop, Meadowvale Rd at Sheppard Ave East, 70
 kennedy night bus, Kennedy Rd at Eglinton Ave East, 60
-finch night bus route, Finch Ave West at Yonge St - Finch Station, 80
+finch night bus route, Finch Station, 80
 vp nb, Victoria Park Ave at Sheppard Ave East North Side, 50
 mccowan night bus, McCowan Rd at Steeles Ave East North Side, 60
 york mills night bus, York Mills Rd at Yonge St, 70
@@ -44157,7 +44157,7 @@ rostrevor/eglinton, NONE, 0
 bloor st & ossington, Bloor St West at Ossington Ave, 100
 line 3 shuttle kenn to mccowan, Kennedy Rd at McCowan Rd, 60
 line 3 kenn to mccowan, Kennedy Rd at McCowan Rd, 60
-finch west to finch station, Finch Ave West at Yonge St - Finch Station, 50
+finch west to finch station, Finch Station, 50
 teerminal 3, Pearson Airport Terminal 3 - Arrivals Level Columns C8-C12, 80
 st clair & wychwood, St Clair Ave West at Wychwood Ave, 90
 greenwin / bathurst, Bathurst St at Greenwin Village Rd, 80
@@ -45779,7 +45779,7 @@ warden station to angus glen, Warden Ave at 16Th Ave, 60
 kenn station to midland and steels, Kennedy Rd at Steeles Ave East, 60
 rosedale route, Rosedale Station, 80
 birchmont and kennedy along mcnicoll, McNicoll Ave at Birchmount Rd, 60
-Finch Ave West at Yonge St - Finch Station,NONE,0
+Finch Station,NONE,0
 Dundas St East at Coxwell Ave,NONE,0
 NONE,NONE,0
 York Mills Rd at Fenside Dr,98,
@@ -45820,7 +45820,7 @@ NONE, NONE, NONE
 Don Mills Rd at Freshmeadow Dr, Don Mills Rd at Freshmeadow Dr, 100
 NONE, NONE, NONE
 Steeles Ave West at Yonge St East Side, Yonge St at Queens Quay East North Side, 50
-Finch Ave West at Yonge St - Finch Station, Finch Ave West at Yonge St - Finch Station, 100
+Finch Station, Finch Station, 100
 Dynamic Dr at Turbina Ave, Dynamic Dr at Turbina Ave, 100
 Eglinton Ave West at Kipling Ave, Lawrence Ave West at Royal York Rd East Side, 40
 scarborough / kenn, NONE, NONE
@@ -46801,7 +46801,7 @@ Roywood Dr at Marbury Cres (East), Roywood Dr at Marbury Cres (East), 95
 Queen St East at Pape Ave, Pape Ave at Queen St East, 90
 Kipling Ave at Resources Rd, Islington Ave at Resources Rd, 75
 Lansdowne Ave at Seaforth Ave, Lansdowne Ave at Seaforth Ave, 100
-Finch Station, Finch Ave West at Yonge St - Finch Station, 100
+Finch Station, Finch Station, 100
 Lansdowne Station, Lansdowne Ave at Bloor St West, 90
 rogers & dufferin, Rogers Rd at Dufferin St, 90
 morningside ave/lawrence ave e, Morningside Ave at Lawrence Ave East, 90
@@ -47281,7 +47281,7 @@ old weston / st .clair, Old Weston Rd at St Clair Ave West, 90
 folkes st, Folkes St at Jane St, 100
 weatherell st, Jane St at Weatherell St, 100
 dufferin and lawerance, Dufferin St at Lawrence Ave West, 80
-939 finch express route, Finch Ave West at Yonge St - Finch Station, 70
+939 finch express route, Finch Station, 70
 sibley and danforth, Danforth Ave at Sibley Ave, 80
 danforth/sibley ave, Danforth Ave at Sibley Ave, 80
 old finch and moningview trl, Morningview Trail at Old Finch Ave, 60
@@ -47450,7 +47450,7 @@ Eastdale Ave at Secord Ave, Eastdale Ave at Secord Ave, 100
 grenoble dr at vendome pl, Grenoble Dr at Vendome Pl, 70
 yonge st at eglinton ave east, Yonge St at Eglinton Ave East North Side - Eglinton Station, 90
 manitoba dr at strachan ave, Exhibition Loop at Manitoba Dr, 75
-Finch Ave West at Yonge St - Finch Station, Finch Ave West at Yonge St - Finch Station, 75
+Finch Station, Finch Station, 75
 victoria park ave at reddins rd, Victoria Park Ave at Ruscica Dr, 70
 pharmacy ave at beverly glen blvd, Pharmacy Ave at Beverly Glen Blvd, 90
 king st west at portland st, Front St West at Bay St East Side - Union Station, 40
@@ -47763,7 +47763,7 @@ yorkdale and dufferin, Dufferin St at Yorkdale Rd, 90
 pape staton to don mills station, NONE, NONE
 route 46 martin grove, Martin Grove Rd at Finch Ave West, 80
 Wellington St West at Bay St, NONE, 0
-Finch Ave West at Yonge St - Finch Station, NONE, 0
+Finch Station, NONE, 0
 NONE, NONE, 0
 Pape Ave at Danforth Ave, Queen St East at Coxwell Ave, 60
 Ellesmere Rd at Dolly Varden Blvd, 100,
@@ -48185,7 +48185,7 @@ Sheppard Ave East at Fairview Mall Dr North Side, Sheppard Ave East at Fairview 
 Jane St at Annette St, Keele St at Annette St, 70
 Wilson Ave at Bathurst St, Wilson Ave at Bathurst St East Side, 100
 Pape Ave at Mortimer Ave, Pape Ave at Lipton Ave North Side, 90
-Finch Ave West at Yonge St - Finch Station, Yonge St at Finch Ave West - Finch Station, 80
+Finch Station, Yonge St at Finch Ave West - Finch Station, 80
 Weston Rd at Weston Wood Rd North Side, Weston Rd at Sunset Trail, 50
 Evans Ave at Brown's Line, Evans Ave at Brown's Line, 100
 Bay St at Albert St, Bay St at Albert St, 100
@@ -48715,7 +48715,7 @@ college to queen, College St at Queen's Park - Queen's Park Station, 40
 liberty to eglinton wstn, Eglinton Ave West at Royal York Rd, 25
 loval, NONE, NONE
 parkview / aspen, Parkview Hill Cres at Aspen Ave (South), 70
-finch express / finch station, Finch Ave West at Yonge St - Finch Station, 75
+finch express / finch station, Finch Station, 75
 eglinton/falmouth, Eglinton Ave East at Falmouth Ave, 90
 bloor to king on ossington, NONE, NONE
 progress avenue / scar town ctr, Progress Ave at Kennedy Rd, 70
@@ -48936,7 +48936,7 @@ bayview and steeles (loop), Victoria Park Ave Loop at Steeles Ave East, 90
 between finch station and neilson and crowtrail, Finch Ave East at Neilson Rd West Side, 70
 lawson and centenniel road, Lawson Rd at Centennial Rd, 100
 eglinton ave east - bermondsey road / sloane ave, Eglinton Ave East at Bermondsey Rd, 75
-finch / finch station, Finch Ave West at Yonge St - Finch Station, 75
+finch / finch station, Finch Station, 75
 bayview to fenn ave, Bayview Ave at Fife Rd, 70
 on yorkmills at west of bay view, York Mills Rd at Bayview Ave West Side, 90
 st. clair ave east and kennedy road, St Clair Ave East at Kennedy Rd, 100
@@ -50468,7 +50468,7 @@ staines and steeping stone, NONE, NONE
 mccowan and oakridge dr, McCowan Rd at Oakridge Dr, 90
 verginia ave / cosburn, NONE, NONE
 dundas and the westmall, Dundas St West at The West Mall, 85
-yonge st and finch ave, Finch Ave West at Yonge St - Finch Station, 75
+yonge st and finch ave, Finch Station, 75
 wellesley at ontario st, Wellesley St East at Ontario St, 95
 leslie and eginton, Leslie St at Eglinton Ave East, 90
 sheppard and rivalida, Sheppard Ave West at Rivalda Rd, 90
@@ -50902,7 +50902,7 @@ Eglinton Ave West at Renforth Dr, NONE, 50
 Washburn Way at Nahanni Ter, Washburn Way at Nahanni Ter South Side, 95
 Eglinton Ave West at Martin Grove Rd, Eglinton Ave West at Martin Grove Rd East Side, 85
 Rogers Rd at Keele St, Rogers Rd at Nairn Ave, 70
-Finch Ave West at Yonge St - Finch Station, Finch Ave East at Yonge St - Finch Station, 80
+Finch Station, Finch Ave East at Yonge St - Finch Station, 80
 McCowan Rd at Invergordon Ave, NONE, 90
 Jane St at Downsview Ave, NONE, 60
 Scarborough Town Centre, Morningside Ave at Morningview Trail, 60
@@ -51050,7 +51050,7 @@ Bathurst St at Laurelcrest Ave, Bathurst St at Laurelcrest Ave, 100
 Kennedy Rd at St Clair Ave East, Kennedy Rd at St Clair Ave East, 100
 Lansdowne Ave at Dupont St, Lansdowne Ave at Dupont St, 100
 Weston Rd at Bradstock Rd, Weston Rd at Bradstock Rd, 90
-Finch Ave West at Yonge St - Finch Station, NONE, 50
+Finch Station, NONE, 50
 Kingston Rd at McCowan Rd, Kingston Rd at McCowan Rd, 100
 Steeles Ave West at Barmac Dr, Steeles Ave West at Scholes Rd/Barmac Dr, 80
 McLevin Ave at Sewells Rd, McLevin Ave at Sewells Rd, 100
@@ -52714,7 +52714,7 @@ jane / clare, Jane St at Clare Rd, 90
 jane and yewtree, Jane St at Yewtree Blvd North Side, 80
 Castle Frank Station, Castle Frank Station, 90
 Pharmacy Ave at Knightsbridge Rd, Pharmacy Ave at Knightsbridge Rd, 100
-Finch Ave West at Yonge St - Finch Station, Pioneer Village Station, 70
+Finch Station, Pioneer Village Station, 70
 Jane St at Steeles Ave West, NONE, 40
 Lawrence Ave West at Bathurst St, Ranee Ave at Varna Dr - Yorkdale Station, 40
 Lawrence Ave West at Bathurst St, Ranee Ave at Varna Dr - Yorkdale Station, 40
@@ -52788,7 +52788,7 @@ fresh meadow and don mills road, Freshmeadow Dr at Don Mills Rd, 90
 eglinton ave & martin grove, Eglinton Ave West at Martin Grove Rd, 95
 queensways garage, The Queensway at Park Lawn Rd, 50
 culford and harrow, Culford Rd at Harrow Dr, 100
-yonge and steels to finch station, Finch Ave West at Yonge St - Finch Station, 55
+yonge and steels to finch station, Finch Station, 55
 bloor/avenue, Avenue Rd at Bloor St West North Side, 80
 bloor and avenue rd., Avenue Rd at Bloor St West North Side, 90
 neptune drive / bathurst, Bathurst St at Neptune Dr, 90
@@ -54891,7 +54891,7 @@ NONE, NONE, 30
 don mill and finch, Freshmeadow Dr at Don Mills Rd, 60
 weston road and avon, Weston Rd at Avon Cres, 90
 jane st & weston, Jane St at Weston Rd, 80
-finch at yonge, Finch Ave West at Yonge St - Finch Station, 70
+finch at yonge, Finch Station, 70
 queen st & macdonell, MacDonell Ave at Queen St West North Side, 70
 old weston /st clair, Old Weston Rd at St Clair Ave West North Side, 70
 dundus, NONE, 20
@@ -56559,7 +56559,7 @@ The Esplanade at Lower Jarvis St, 60,
 Mt Pleasant Rd at Erskine Ave, 97,
 Yonge St at North York Blvd, 90,
 St Clair Ave East at Warden Ave, 60,
-Finch Ave West at Yonge St - Finch Station, Sheppard Ave East at Yonge St - Sheppard Station, 60
+Finch Station, Sheppard Ave East at Yonge St - Sheppard Station, 60
 Rosedale Station, Queens Quay West at Yonge St, 50
 Bayview Ave at Broadway Ave, Bayview Ave at Broadway Ave, 100
 Steeles Ave West Loop at Islington Ave, NONE, NONE
@@ -60385,7 +60385,7 @@ york mills and cedarwo, York Mills Rd at Cedarwood Ave, 90
 lawrence and wright, Jane St at Wright Ave, 70
 pharmacy and innisdale, Pharmacy Ave at Innisdale Dr, 95
 eglinton and calendoni, Caledonia Rd at Eglinton Ave West, 85
-finch station to finch, Finch Ave West at Yonge St - Finch Station, 90
+finch station to finch, Finch Station, 90
 steeles loop (yonge an, Steeles Ave West Loop at Yonge St West Side, 75
 danforth rd and eglint, St Clair Ave East at Danforth Rd, 70
 wynford dr and eglinto, Eglinton Ave East at Wynford Dr West Side, 85
@@ -61655,7 +61655,7 @@ markham and turbina, Markham Rd at Turbina Ave, 95
 rexdale and queens pla, Highway 27 at Queen's Plate Dr - Woodbine Centre, 80
 lawrence and milden ha, Lawrence Ave East at Mildenhall Rd, 90
 nassau and leonard, NONE, NONE
-finch ave w and yonge, Finch Ave West at Yonge St - Finch Station, 95
+finch ave w and yonge, Finch Station, 95
 york mills loop, NONE, NONE
 finch west and sentine, Finch Ave West at Sentinel Rd, 70
 o'conor and don mills, O'Connor Dr at Don Mills Rd, 80
@@ -61879,7 +61879,7 @@ tapscott s of mcnicoll, Tapscott Rd at McNicoll Ave, 90
 queen and victoria par, Queen St East at Victoria Park Ave, 90
 yonge and habour, Yonge St at Front St East, 60
 eglinton and pharamcy, Eglinton Ave East at Pharmacy Ave, 90
-finch station to fingh and, Finch Ave West at Yonge St - Finch Station, 40
+finch station to fingh and, Finch Station, 40
 rexdale and hwy 27, Highway 27 at Queen's Plate Dr - Woodbine Centre, 70
 starspray loop at lawr, Starspray Loop at Lawrence Ave East, 90
 martingrove and steele, Steeles Ave West at Martin Grove Rd, 60
@@ -61968,7 +61968,7 @@ jane and milo park gat, Jane St at Milo Park Gate, 100
 jane and york, York Mills Rd at Jane St East Side, 70
 poineer villege statio, Pioneer Village Station, 90
 vaughn and kenwood, Vaughan Rd at Kenwood Ave, 80
-finch station to steeles/m, Finch Ave West at Yonge St - Finch Station, 60
+finch station to steeles/m, Finch Station, 60
 warden and steeles to, Warden Ave at Steeles Ave East, 90
 danforth av and main s, Danforth Ave at Main St, 90
 yonge / steeles loop, NONE, 40
@@ -61978,7 +61978,7 @@ wilson and aveune, Wilson Ave at Avenue Rd, 90
 oakwood and bathurst, Oakwood Ave at Bathurst St, 80
 grenoble and st dennis, Grenoble Dr at St Dennis Dr, 90
 Finch Ave West at Romfield Lane, Finch Ave West at Romfield Lane, 100
-Finch Ave West at Yonge St - Finch Station, NONE, 60
+Finch Station, NONE, 60
 Sheppard Ave West at Bradstock Rd, Sheppard Ave West at Bryant St West Side, 75
 Eglinton Ave West at Glen Cedar Rd, Eglinton Ave West at Glen Cedar Rd, 100
 Carrier Dr at Westmore Dr, Westmore Dr at Finch Ave West, 75
@@ -62554,7 +62554,7 @@ duffering and wilson, Dufferin St at Wilson Ave, 80
 kennedy station - serv, Kennedy Rd at Eglinton Ave East, 60
 north service road, North Service Rd, 90
 wilson heights and fai, Wilson Heights Blvd at Codsell Ave, 70
-entire finch, Finch Ave West at Yonge St - Finch Station, 40
+entire finch, Finch Station, 40
 eglinton - oakwood to, Eglinton Ave West at Oakwood Ave, 60
 55 blackfriar ave, NONE, 10
 danforth ave and st du, Danforth Rd at St Clair Ave East, 50
@@ -64141,7 +64141,7 @@ weston rd and knob hil, Weston Rd at Knob Hill Dr, 90
 martin grove and hwy 2, NONE, NONE
 leslie and n of finch, NONE, NONE
 mccowan and bayview, McCowan Rd at Bayview, 40
-finch and north york, Finch Ave West at Yonge St - Finch Station, 95
+finch and north york, Finch Station, 95
 sheppard and jane (wes, Sheppard Ave West at Jane St, 95
 warden and murray glen, Warden Ave at Murray Glen Dr, 90
 lawrence and w of jane, Lawrence Ave West at Jane St, 90
@@ -67694,7 +67694,7 @@ berry rd and parklawn, Berry Rd at Park Lawn Rd, 100
 don mills and hwy 401, NONE, NONE
 haldon and cosburn ( i, NONE, NONE
 chaplin cres and eglin, Chaplin Cres at Eglinton Ave West, 90
-finch statiom, Finch Ave West at Yonge St - Finch Station, 70
+finch statiom, Finch Station, 70
 steeles and gerry fits, Steeles Ave West at Gerry Fitzgerald Dr, 90
 eastern and lower coxw, Eastern Ave at Queen St East South Side, 40
 st clair and w of jane, St Clair Ave West at Jane St, 90
@@ -68018,7 +68018,7 @@ Elmhurst Dr at Albion Rd, Elmhurst Dr at Albion Rd, 100
 Rathburn Rd at Walkway to Alanmeade Cres, Rathburn Rd at Walkway to Alanmeade Cres, 95
 Wright Ave at Jane St, Wright Ave at Jane St, 100
 Kingston Rd at Guildwood Pkwy, Kingston Rd at Guildwood Pkwy, 90
-Finch Ave West at Yonge St - Finch Station, Finch Ave West at Yonge St - Finch Station, 100
+Finch Station, Finch Station, 100
 McNicoll Ave at Leslie St, McNicoll Ave at Leslie St, 80
 Dundas St West at Old Oak Dr, Dundas St West at Old Oak Dr, 100
 NONE, NONE, NONE
@@ -68194,7 +68194,7 @@ flemmington and ranee, Flemington Rd at Ranee Ave - Yorkdale Station, 80
 lakeshore and thirty n, Lake Shore Blvd West at Thirty Ninth St West Side, 90
 martin grove/steeles l, Steeles Ave West at Martin Grove Rd, 80
 claireport crescent an, Claireport Cres (East) at Albion Rd, 80
-finch station`, Finch Ave West at Yonge St - Finch Station, 75
+finch station`, Finch Station, 75
 outside queensway divi, NONE, NONE
 renforth terminal - 50, Renforth Dr at Eglinton Ave West, 50
 knapp lane s of docksi, NONE, NONE
@@ -68303,7 +68303,7 @@ queens quay loop, Queens Quay Loop at Lower Spadina Ave, 85
 bathurst and ridelle a, Bathurst St at Ridelle Ave, 95
 2597 st clair ave west, NONE, 50
 st claire w and ford s, St Clair Ave West at Old Stock Yards Rd, 70
-finch station 69746, Finch Ave West at Yonge St - Finch Station, 95
+finch station 69746, Finch Station, 95
 burnhamthrope and mart, Burnhamthorpe Rd at Martin Grove Rd, 80
 progress and orchid, NONE, NONE
 willowdale and chruch, Willowdale Ave at Church Ave, 95
@@ -69992,7 +69992,7 @@ st clair and rexley, St Clair Ave East at Rexleigh Dr, 90
 realea cul-de-sac, NONE, 0
 warden and manhatten, Warden Ave at Manhattan Dr, 90
 jane st at methuen dr, NONE, 60
-finch ave west at yonge st - finch station, NONE, 80
+Finch Station, NONE, 80
 birchmount rd at finch ave east, NONE, 90
 consumers rd at yorkland blvd, Consumers Rd at Hallcrown Pl, 70
 midland ave at eglinton ave east, NONE, 90
@@ -71652,7 +71652,7 @@ dixon rd and kipling a, Dixon Rd at Kipling Ave, 80
 international and gala, NONE, NONE
 bartor and arrow rd, Arrow Rd at Bartor Rd, 90
 arrow rd and sheppard, Arrow Rd at Sheppard Ave West, 90
-finch bus terminal, Finch Ave West at Yonge St - Finch Station, 70
+finch bus terminal, Finch Station, 70
 brimley and wilclay, NONE, NONE
 caledonia and kitchen, Caledonia Rd at Kitchener Ave, 90
 moringside and danzig, Morningside Ave at Danzig St, 95
@@ -73000,7 +73000,7 @@ spadina and hawarden, Spadina Rd at Hawarden Cres North Side, 85
 oakwood and esarnsclif, NONE, NONE
 blooe and sherbourne, Bloor St East at Sherbourne St, 90
 Caledonia Rd at Bentworth Ave, Caledonia Rd at Bentworth Ave, 90
-Finch Ave West at Yonge St - Finch Station, NONE, 70
+Finch Station, NONE, 70
 Yonge St at Farnham Ave, NONE, 60
 Glen Rd at Whitney Ave, Glen Rd at Whitney Ave, 90
 O'Connor Dr at Curity Ave, O'Connor Dr at Curity Ave, 90
@@ -74281,7 +74281,7 @@ o'connor and warland, O'Connor Dr at Warland Ave, 90
 1451 avenue road, 1451 Avenue Rd - Havergal College, 100
 bloor east and jarvis, Bloor St East at Jarvis St, 100
 sheppard west and sent, Sheppard Ave West at Sentinel Rd, 100
-finch station - bus pl, Finch Ave West at Yonge St - Finch Station, 90
+finch station - bus pl, Finch Station, 90
 300 transit, NONE, NONE
 steeles and highway 2, Steeles Ave West at Highway 27, 90
 dixon rd at st phillips rd, Dixon Rd at St Phillips Rd, 100
@@ -75318,7 +75318,7 @@ carlingview dr and dis, Disco Rd at Carlingview Dr, 90
 427 dundas ramp, NONE, NONE
 midland at lawrence, Midland Ave at Lawrence Ave East, 95
 keele and floral, NONE, NONE
-finch station - offloa, Finch Ave West at Yonge St - Finch Station, 90
+finch station - offloa, Finch Station, 90
 york mills station - e, Yonge St at York Mills Rd North Side - York Mills Station, 80
 lakeshore and marine, Marine Parade Dr Loop at Lake Shore Blvd West, 90
 shorecliffe and north, Shorncliffe Ave at North Queen St, 90
@@ -75775,7 +75775,7 @@ birmley and eglinton, Brimley Rd at Eglinton Ave East West Side, 90
 kingston and centennia, Kingston Rd at Centennial Rd, 80
 vaughan and eleanor av, NONE, 10
 kingston rd and eglint, Kingston Rd at Eglinton Ave East, 80
-finch station - 60 bus, Finch Ave West at Yonge St - Finch Station, 70
+finch station - 60 bus, Finch Station, 90
 mt plesant and sherwoo, Mt Pleasant Rd at Sherwood Ave, 90
 mount pleasant and man, Mt Pleasant Rd at Manor Rd East, 80
 kennedy station - layo, Kennedy Rd at Eglinton Ave East, 70
