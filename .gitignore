@@ -407,3 +407,6 @@ data/TTC Routes and Schedules Data
 
 # Personal Constants
 personalconstants.py
+
+stops_corrected.csv
+all_stops_corrected.csv
