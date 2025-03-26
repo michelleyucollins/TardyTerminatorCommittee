@@ -1,0 +1,124 @@
+Cause for Delay
+Miscellaneous Speed Control                                   20235
+Injured or ill Customer (In Station) - Transported            17716
+Operator Overspeeding                                         15067
+Passenger Assistance Alarm Activated - No Trouble Found       10250
+Disorderly Patron                                              8971
+Injured or ill Customer (In Station) - Medical Aid Refused     6437
+Passenger Other                                                5857
+Escalator/Elevator Incident                                    5610
+Unrecognized Code                                              4764
+Miscellaneous Other                                            4183
+Operator Violated Signal                                       3019
+Speed Control Equipment                                        2680
+Miscellaneous General Delays                                   2611
+Assault / Patron Involved                                      2252
+Station Stairway Incident                                      2107
+Injured or ill Customer (On Train) - Medical Aid Refused       1894
+OPTO (COMMS) Train Door Monitoring                             1510
+Injured or ill Customer (On Train) - Transported               1209
+Unauthorized at Track Level                                    1186
+Assault / Employee Involved                                    1113
+Brakes                                                          955
+Signals - Train Stops                                           805
+Station Other                                                   794
+Injured Employee                                                792
+Operator Overshot Platform                                      788
+ATC Project                                                     716
+Signals or Related Components Failure                           679
+Collector Booth Alarm Activated                                 668
+Misc. Transportation Other - Employee Non-Chargeable            585
+Signal Problem - No Trouble                                     558
+Transportation Department - Other                               501
+Sexual Assault                                                  427
+Robbery                                                         425
+Graffiti / Scratchiti                                           389
+S/E/C Department Other                                          341
+Door Problems - Debris Related                                  333
+Signals - Track Circuit Problems                                311
+Door Problems - Faulty Equipment                                309
+Transit Control Related Problems                                295
+Insulated Joint Related Problem                                 292
+Signals Track Weather Related                                   273
+T & S Operator Related Problems                                 270
+Training Department Related Delays                              261
+Rail Cars & Shops Opr. Error                                    238
+Door Problems - Passenger Related                               237
+Fire/Smoke Plan C                                               215
+T&S Other                                                       187
+Equipment - No Trouble Found                                    154
+Ice / Snow Related Problems                                     147
+Track Switch Failure - Signal Related Problem                   137
+Held By Polce - Non-TTC Related                                 131
+Unsanitary Vehicle                                              125
+Fire/Smoke Plan B - Source TTC                                  125
+No Operator Immediately Available                               120
+No Operator Immediately Available - Not E.S.A. Related          119
+Signal Control Problem - Signals                                110
+Storm Trains                                                    107
+Work Zone Problems - Track                                       92
+Work Refusal                                                     89
+Weather Reports / Related Delays                                 85
+Operator Not In Position                                         84
+Track Level Debris - Controllable                                81
+Signals Axle Counter Block Failure                               65
+Supervisory Error                                                61
+ATC Operator Related                                             61
+Track Circuit Problems - Re: Defective Bolts/Bonding             56
+Subway Radio System Fault                                        56
+Rail Related Problem                                             56
+RC&S Maintenance Error - (Human)                                 50
+Signal Control Problem - Track                                   48
+Propulsion System                                                45
+Work Zone Problems - Signals                                     43
+Mainline Storage                                                 43
+Body                                                             40
+Yard/Carhouse Related Problems                                   39
+ATC Signals Other                                                39
+RC&S Other                                                       39
+T&S Related Problem - NTF                                        36
+Two Drum Switch Keys Activated                                   35
+Suspicious Package                                               34
+Consequential Delay (2nd Delay Same Fault)                       33
+Emergency Alarm Station Activation                               32
+ATC RC&S Equipment                                               28
+Work Vehicle                                                     26
+Central Office Signalling System                                 26
+TR Cab Doors                                                     21
+Divisional Clerk Related                                         17
+Fire/Smoke Plan B - Source External to TTC                       16
+Track Switch Failure - Track Related Problem                     16
+Priority One - Train in Contact With Person                      14
+Air Conditioning                                                 13
+Overhead Door Contact                                            12
+Traction Power or Related Components Failure                     12
+Structure Related Problem                                        11
+Warning Alarm Systems                                            11
+Subway Car Radio Fault                                           11
+OPTO Operator Related                                            10
+No Equipment Available                                           10
+OPTO RC&S Non-Train Door Monitoring                               9
+Trucks                                                            8
+ECD / Line Mechanic Related Prob.                                 8
+Crew Unable to Maintain Schedule                                  7
+Force Majeure                                                     7
+Trainline System                                                  7
+T & S Contractor Problems                                         7
+Bomb Threat                                                       7
+Couplers                                                          6
+Fire/Smoke Plan A                                                 5
+No Operator Immediately Available                                 5
+SCADA Related Problems                                            5
+Smart IO Failure                                                  4
+Doors Open in Error                                               4
+Low Voltage                                                       4
+Train Controls Improperly Shut Down                               4
+Traction Power Rail Related                                       2
+Traction Motors                                                   2
+Misc. Engineering & Construction Related Problems                 2
+High Voltage                                                      2
+Alternating Current                                               2
+Lighting System                                                   1
+EAS Failure                                                       1
+Compressed Air                                                    1
+Beacon Failure                                                    1
