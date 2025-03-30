@@ -410,3 +410,4 @@ personalconstants.py
 
 stops_corrected.csv
 all_stops_corrected.csv
+lstm_data.csv
