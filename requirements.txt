@@ -3,4 +3,5 @@ beautifulsoup4
 -U googlemaps
 -q -U google-genai
 fuzzywuzzy
+jellyfish
 python-Levenshtein
