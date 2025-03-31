@@ -27,3 +27,7 @@ Files are in csv format, and contain the  following information:
 - prcp: total percipitation (mm)
 - wdir: wind direction (TBD)
 - wspd: wind speed (km/h)
+
+File names: 
+Station_name_MetrostatCode (Coordinates).csv
+Source: [https://meteostat.net/en/](url)
