@@ -12,7 +12,8 @@ def is_rush_hour(row):
         return False
     
     hour = row['Datetime'].split(' ')[1].split(':')[0]
-    if hour in ['7', '8', '9', '16', '17', '18']:
+    # As defined by the TTC
+    if hour in ['6', '7', '8', '9', '15', '16', '17', '18', '19']:
         return True
     
     return False
