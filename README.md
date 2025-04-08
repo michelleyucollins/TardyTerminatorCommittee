@@ -17,10 +17,15 @@ GEMINI_API_KEY = "<YOUR GEMINI API KEY>"
 
 ## Directory Overview
 TardyTerminatorCommittee/
+
 ./experimental # experimental items
+
 ./data # contains all data or data collection applications used for modelling
+
 ./preprocessing # contains preprocssing files
+
 ./bus_analysis # contains analysis on bus data
+
 ./subway_analysis # contains analysis on subway data
 
 Further information can be found in the README files of each directory
