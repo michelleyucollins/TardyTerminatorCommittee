@@ -6,3 +6,9 @@ This file performs basic analysis on the subway delays based on their time. Mult
 
 ## ./basic_analysis/weather_analysis.ipynb
 This file performs basic analysis on the subway delays based on the weather of the day the delay occured on. Multiple Linear Regression was used to establish a baseline model.
+
+## ./models/add_features.py
+Python file which adds features necessary for models
+
+## ./models/weather_nn.ipynb
+Basic Feed Forward Neural Network implemented for delays, with Weather of the day being the input and mean/count delays being the output. Conclusions: Some improvements to MSE, but still very high.
