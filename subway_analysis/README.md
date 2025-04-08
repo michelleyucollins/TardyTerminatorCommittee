@@ -15,3 +15,6 @@ Basic Feed Forward Neural Network implemented for delays, with Weather of the da
 
 ## ./models/LSTM_model.ipynb
 LSTM model implemented to see if sequential patterns could be found within subway delays and the delay location. No successful results retrieved due to bias in data distribution/
+
+## ./models/XGBoost.ipynb
+XGBoost model implemented to classify the delay and non-delay instances of subway data
