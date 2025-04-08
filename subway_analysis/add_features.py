@@ -55,8 +55,8 @@ def add_ridership(df, mapping):
     return df
 
 if __name__ == '__main__':
-    data_path = "../../data/delays/subway/cleaned_data"
-    dest_path = "../data"
+    data_path = "../data/delays/subway/cleaned_data"
+    dest_path = "data"
     ridership_mapping = generate_ridership_mapping(dest_path)
     print(ridership_mapping)
     # Loop through all files in the data directory
