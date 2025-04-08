@@ -12,3 +12,6 @@ Python file which adds features necessary for models
 
 ## ./models/weather_nn.ipynb
 Basic Feed Forward Neural Network implemented for delays, with Weather of the day being the input and mean/count delays being the output. Conclusions: Some improvements to MSE, but still very high.
+
+## ./models/LSTM_model.ipynb
+LSTM model implemented to see if sequential patterns could be found within subway delays and the delay location. No successful results retrieved due to bias in data distribution/
