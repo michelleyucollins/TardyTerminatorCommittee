@@ -1,6 +1,12 @@
 # TardyTerminatorCommittee
 Using ML to extract insights in transit delays
 
+## Final Report
+Please see our Final Report, which summarizes all findings in our main branch.
+```
+./Final_Report.pdf
+```
+
 ## Dependencies
 Download all dependencies with 
 ```
